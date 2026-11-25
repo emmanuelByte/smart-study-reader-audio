@@ -290,7 +290,7 @@
       "number": 4,
       "title": "IT Operations, Service and Change Management",
       "totalSections": 15,
-      "readySections": 12,
+      "readySections": 15,
       "tracks": [
         {
           "file": "mit-8101-s04-s001.mp3",
@@ -387,10 +387,34 @@
           "startSection": 12,
           "endSection": 12,
           "sha256": "42dda10d52af6f2091f87dc915b284779d03f113278a63eeeaa61e57ee40c448"
+        },
+        {
+          "file": "mit-8101-s04-s013.mp3",
+          "title": "13. Consolidation",
+          "seconds": 146.679333,
+          "startSection": 13,
+          "endSection": 13,
+          "sha256": "150e7bf86d93b971ffd14e229511a83a418932d7cdaaaf12327a6488d9820668"
+        },
+        {
+          "file": "mit-8101-s04-s014.mp3",
+          "title": "CA Q25",
+          "seconds": 289.881333,
+          "startSection": 14,
+          "endSection": 14,
+          "sha256": "00c3b7d024086ef1081f155bd41aa4723d25f8c3174b5a753d99c896ec5b6335"
+        },
+        {
+          "file": "mit-8101-s04-s015.mp3",
+          "title": "CA Q39",
+          "seconds": 41.700667,
+          "startSection": 15,
+          "endSection": 15,
+          "sha256": "be4c92fea5f49227c1747d2051f75ffc1821a4f301762e13201e6969138b0c18"
         }
       ],
-      "complete": false,
-      "durationSeconds": 2182.184666
+      "complete": true,
+      "durationSeconds": 2660.445999
     },
     {
       "number": 5,
@@ -411,5 +435,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:29:20Z"
+  "updatedAt": "2026-11-25T17:31:09Z"
 }
