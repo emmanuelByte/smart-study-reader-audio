@@ -420,7 +420,7 @@
       "number": 5,
       "title": "Performance, Continuity and Resilience in IT",
       "totalSections": 13,
-      "readySections": 6,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8101-s05-s001.mp3",
@@ -469,10 +469,34 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "7d04e1f2c9519b3dc4a6128c466233439ce22226c87e51d18282fe8c15a08b41"
+        },
+        {
+          "file": "mit-8101-s05-s007.mp3",
+          "title": "Backups and restoration",
+          "seconds": 222.565333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "79ea0d05bd6fbd442b02bca882d0c3519706d96bb855bc7af967fb42bac0296a"
+        },
+        {
+          "file": "mit-8101-s05-s008.mp3",
+          "title": "8. Standards and governance",
+          "seconds": 153.975333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "fe394a633e856517726d96c4cfa792c200035527ec2f2e0ec560dc6927f3d9e8"
+        },
+        {
+          "file": "mit-8101-s05-s009.mp3",
+          "title": "9. Testing and maintaining recovery plans",
+          "seconds": 149.559333,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "9d63d07c7be69c50e54687de1478d67fd75d7ff81eba5a27e6c4d0c15329f450"
         }
       ],
       "complete": false,
-      "durationSeconds": 1142.614001
+      "durationSeconds": 1668.714
     },
     {
       "number": 6,
@@ -484,5 +508,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:36:57Z"
+  "updatedAt": "2026-11-25T17:38:46Z"
 }
