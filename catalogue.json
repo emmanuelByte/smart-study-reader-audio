@@ -290,7 +290,7 @@
       "number": 4,
       "title": "IT Operations, Service and Change Management",
       "totalSections": 15,
-      "readySections": 3,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8101-s04-s001.mp3",
@@ -315,10 +315,34 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "1da19be136020133afd1d545e9ae5083063515d468f3ba48950a4328c7c6a97e"
+        },
+        {
+          "file": "mit-8101-s04-s004.mp3",
+          "title": "Microsoft Operations Framework (MOF)",
+          "seconds": 201.003333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "d53b877d905b48fbd231866d846f8d4c9c03b52151142d4d42582cabb62d7911"
+        },
+        {
+          "file": "mit-8101-s04-s005.mp3",
+          "title": "5. Service lifecycle",
+          "seconds": 126.034667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "b67bafc2cf0145763681c9b4bde74ec95ea37cca817cdae3fdfec1eff6699e92"
+        },
+        {
+          "file": "mit-8101-s04-s006.mp3",
+          "title": "6. SLAs, OLAs and service performance",
+          "seconds": 175.025333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "470c626899fe711c049e42b9065b0d905362985a7310536f4bd2311c9d19f26c"
         }
       ],
       "complete": false,
-      "durationSeconds": 435.046
+      "durationSeconds": 937.109333
     },
     {
       "number": 5,
@@ -339,5 +363,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:22:31Z"
+  "updatedAt": "2026-11-25T17:25:00Z"
 }
