@@ -1,0 +1,76 @@
+{
+  "course": "MIT 8101",
+  "title": "Information Technology Management",
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Introduction to Information Technology Management",
+      "totalSections": 23,
+      "readySections": 6,
+      "tracks": [
+        {
+          "file": "mit-8101-s01-part-01.mp3",
+          "title": "Introduction and learning objectives",
+          "seconds": 232.535333,
+          "startSection": 1,
+          "endSection": 2
+        },
+        {
+          "file": "mit-8101-s01-part-02.mp3",
+          "title": "Principles, functions and African challenges",
+          "seconds": 907.882667,
+          "startSection": 3,
+          "endSection": 6
+        }
+      ],
+      "complete": false,
+      "durationSeconds": 1140.418
+    },
+    {
+      "number": 2,
+      "title": "IT Strategy and Business Alignment",
+      "totalSections": 15,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 3,
+      "title": "IT Governance, Compliance and Risk Management",
+      "totalSections": 15,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 4,
+      "title": "IT Operations, Service and Change Management",
+      "totalSections": 15,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 5,
+      "title": "Performance, Continuity and Resilience in IT",
+      "totalSections": 13,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 6,
+      "title": "Emerging Trends and Financial Management in IT",
+      "totalSections": 13,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    }
+  ],
+  "updatedAt": "2026-11-25T17:02:20Z"
+}
