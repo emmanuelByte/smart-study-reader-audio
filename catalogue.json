@@ -420,7 +420,7 @@
       "number": 5,
       "title": "Performance, Continuity and Resilience in IT",
       "totalSections": 13,
-      "readySections": 1,
+      "readySections": 3,
       "tracks": [
         {
           "file": "mit-8101-s05-s001.mp3",
@@ -429,10 +429,26 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "d803c2b9d29f10cb8787245f2818bcd8d9c6f23731c4428a2367149dd268d883"
+        },
+        {
+          "file": "mit-8101-s05-s002.mp3",
+          "title": "Worked calculations",
+          "seconds": 258.676667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "71ba472a61930326d3e76149533e4cb633d7be3cb67eab67a5972ac16770c67d"
+        },
+        {
+          "file": "mit-8101-s05-s003.mp3",
+          "title": "Efficiency and effectiveness",
+          "seconds": 209.366,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "10fae16439501ee1954e3402ee768f624cdd15f85952b8b9a91de314234b32df"
         }
       ],
       "complete": false,
-      "durationSeconds": 88.280667
+      "durationSeconds": 556.323334
     },
     {
       "number": 6,
@@ -444,5 +460,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:31:44Z"
+  "updatedAt": "2026-11-25T17:33:33Z"
 }
