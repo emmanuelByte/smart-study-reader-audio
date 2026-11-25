@@ -272,7 +272,7 @@
       "title": "Query Optimisation and File Organisation",
       "sourceSha256": "d65e8c0ab12d92f56db54724f0be14a97a74654fd8e9ee54bfea453e74c44956",
       "totalSections": 10,
-      "readySections": 7,
+      "readySections": 10,
       "tracks": [
         {
           "file": "mit-8103-s04-s001.mp3",
@@ -329,20 +329,61 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "1a1febf22fcedfe932df1eefced969a8e548ca2d786f9335aa09b4a553d995b9"
+        },
+        {
+          "file": "mit-8103-s04-s008.mp3",
+          "title": "Additional query forms and worked estimation",
+          "seconds": 319.032,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "a11ff5db2ea24734f52fa3ab5fedfc83b008457716deaaca382c9c8be8913f29"
+        },
+        {
+          "file": "mit-8103-s04-s009.mp3",
+          "title": "Model essay answer: optimise a slow patient-history query",
+          "seconds": 230.970667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "9e36c341d050818c98bddfc00fa735adafddd27eeee3ea70874bf138d2c74ba7"
+        },
+        {
+          "file": "mit-8103-s04-s010.mp3",
+          "title": "Pre-test Q10",
+          "seconds": 202.902,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "34370c1e7c104943571d7db4db45b4a3991b9cf6e34695b9f0d8606dc5a3c333"
         }
       ],
-      "complete": false,
-      "durationSeconds": 1827.706
+      "complete": true,
+      "durationSeconds": 2580.611
     },
     {
       "number": 5,
       "title": "Emerging Trends in Database Systems",
       "sourceSha256": "a15646307338a341f14c72546cd4ae9aeb850e6087b7c385c5d0472e2c818ce6",
       "totalSections": 9,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 2,
+      "tracks": [
+        {
+          "file": "mit-8103-s05-s001.mp3",
+          "title": "1. Evolution and AI-powered databases",
+          "seconds": 291.475333,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "365366f6734a88fe8caaac22ef32f1df0a033bb928bc8d2f35a4dde9da86575d"
+        },
+        {
+          "file": "mit-8103-s05-s002.mp3",
+          "title": "2. Blockchain and distributed ledgers",
+          "seconds": 324.216,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "b9b5ab4f1c5e853e959c4fb01e5c7a811923c62b93c3614ebe16acc4cfea50f9"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 615.691
     },
     {
       "number": 6,
@@ -355,5 +396,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T22:25:00Z"
+  "updatedAt": "2026-11-25T22:33:05Z"
 }
