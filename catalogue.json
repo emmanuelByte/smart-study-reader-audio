@@ -6,7 +6,7 @@
       "number": 1,
       "title": "Introduction to Information Technology Management",
       "totalSections": 23,
-      "readySections": 7,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8101-s01-part-01.mp3",
@@ -29,10 +29,26 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "c9fd917fe2b62fe6527ce72a8cbf1fda8bf7866fa779b47fae27bd5e56ea6c5a"
+        },
+        {
+          "file": "mit-8101-s01-s008.mp3",
+          "title": "ERP, CRM and BI",
+          "seconds": 281.561333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "d78acbf9806aed7d52d0a7ecd59855004983da21107e77e98820d32e4cd12936"
+        },
+        {
+          "file": "mit-8101-s01-s009.mp3",
+          "title": "7. Enterprise IT evolution: five eras",
+          "seconds": 261.066,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "d586101dd88f4d7ddd91d598ee60a40221163310a98f1ad65ad26b2055322f63"
         }
       ],
       "complete": false,
-      "durationSeconds": 1338.221333
+      "durationSeconds": 1880.8486659999999
     },
     {
       "number": 2,
@@ -653,5 +669,5 @@
       "durationSeconds": 2179.3413339999997
     }
   ],
-  "updatedAt": "2026-11-25T18:18:23Z"
+  "updatedAt": "2026-11-25T18:21:25Z"
 }
