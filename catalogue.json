@@ -290,7 +290,7 @@
       "number": 4,
       "title": "IT Operations, Service and Change Management",
       "totalSections": 15,
-      "readySections": 1,
+      "readySections": 3,
       "tracks": [
         {
           "file": "mit-8101-s04-s001.mp3",
@@ -299,10 +299,26 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "36392fc41ce06c10c3f10016435d71d9ff0cf42383acdcd0c59a4dd84d1a4638"
+        },
+        {
+          "file": "mit-8101-s04-s002.mp3",
+          "title": "2. IT operations: keeping the business running",
+          "seconds": 198.998,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "78d5ec2aded787ceecd19654e6a88bb72592039587821ad2b0582421a4036eb9"
+        },
+        {
+          "file": "mit-8101-s04-s003.mp3",
+          "title": "3. IT service management foundations",
+          "seconds": 128.296,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "1da19be136020133afd1d545e9ae5083063515d468f3ba48950a4328c7c6a97e"
         }
       ],
       "complete": false,
-      "durationSeconds": 107.752
+      "durationSeconds": 435.046
     },
     {
       "number": 5,
@@ -323,5 +339,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:20:40Z"
+  "updatedAt": "2026-11-25T17:22:31Z"
 }
