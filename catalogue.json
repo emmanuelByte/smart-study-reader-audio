@@ -420,7 +420,7 @@
       "number": 5,
       "title": "Performance, Continuity and Resilience in IT",
       "totalSections": 13,
-      "readySections": 9,
+      "readySections": 12,
       "tracks": [
         {
           "file": "mit-8101-s05-s001.mp3",
@@ -493,10 +493,34 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "9d63d07c7be69c50e54687de1478d67fd75d7ff81eba5a27e6c4d0c15329f450"
+        },
+        {
+          "file": "mit-8101-s05-s010.mp3",
+          "title": "Nigerian financial services scenario",
+          "seconds": 146.828667,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "6ed6229d0737edef2be724a1931d291b682f00325b91187a882a3c64ce4a8fa3"
+        },
+        {
+          "file": "mit-8101-s05-s011.mp3",
+          "title": "11. Practical lab: automated disaster recovery and failover",
+          "seconds": 206.401958,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "c3204973d2e98f5d07572743e3d8ce2f4b9309c7136456094192014ea8875301"
+        },
+        {
+          "file": "mit-8101-s05-s012.mp3",
+          "title": "12. Consolidation",
+          "seconds": 118.034667,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "8259e0a2d32a1e59c7563f9c1ee32e35ad31b405acdb6aba7fce53c261933e22"
         }
       ],
       "complete": false,
-      "durationSeconds": 1668.714
+      "durationSeconds": 2139.979292
     },
     {
       "number": 6,
@@ -508,5 +532,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:38:46Z"
+  "updatedAt": "2026-11-25T17:40:18Z"
 }
