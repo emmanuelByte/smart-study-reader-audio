@@ -6,7 +6,7 @@
       "number": 1,
       "title": "Introduction to Information Technology Management",
       "totalSections": 23,
-      "readySections": 6,
+      "readySections": 7,
       "tracks": [
         {
           "file": "mit-8101-s01-part-01.mp3",
@@ -21,10 +21,18 @@
           "seconds": 907.882667,
           "startSection": 3,
           "endSection": 6
+        },
+        {
+          "file": "mit-8101-s01-s007.mp3",
+          "title": "5. Applying IT management across sectors and sustainable development",
+          "seconds": 197.803333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "c9fd917fe2b62fe6527ce72a8cbf1fda8bf7866fa779b47fae27bd5e56ea6c5a"
         }
       ],
       "complete": false,
-      "durationSeconds": 1140.418
+      "durationSeconds": 1338.221333
     },
     {
       "number": 2,
@@ -645,5 +653,5 @@
       "durationSeconds": 2179.3413339999997
     }
   ],
-  "updatedAt": "2026-11-25T18:17:16Z"
+  "updatedAt": "2026-11-25T18:18:23Z"
 }
