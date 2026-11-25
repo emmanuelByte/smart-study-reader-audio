@@ -534,7 +534,7 @@
       "number": 6,
       "title": "Emerging Trends and Financial Management in IT",
       "totalSections": 13,
-      "readySections": 12,
+      "readySections": 13,
       "tracks": [
         {
           "file": "mit-8101-s06-s001.mp3",
@@ -631,11 +631,19 @@
           "startSection": 12,
           "endSection": 12,
           "sha256": "efd6615156c4b248818d5f306b41e0429e055f4d72b969881acc9e13277ea887"
+        },
+        {
+          "file": "mit-8101-s06-s013.mp3",
+          "title": "CA coverage",
+          "seconds": 154.636667,
+          "startSection": 13,
+          "endSection": 13,
+          "sha256": "b7bf56d886a4fd55e15234188f589356acee658fa773e51d24af0a58321e917f"
         }
       ],
-      "complete": false,
-      "durationSeconds": 2024.704667
+      "complete": true,
+      "durationSeconds": 2179.3413339999997
     }
   ],
-  "updatedAt": "2026-11-25T17:48:42Z"
+  "updatedAt": "2026-11-25T17:49:56Z"
 }
