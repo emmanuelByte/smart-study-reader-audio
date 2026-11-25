@@ -160,7 +160,7 @@
       "number": 3,
       "title": "IT Governance, Compliance and Risk Management",
       "totalSections": 15,
-      "readySections": 12,
+      "readySections": 15,
       "tracks": [
         {
           "file": "mit-8101-s03-s001.mp3",
@@ -257,10 +257,34 @@
           "startSection": 12,
           "endSection": 12,
           "sha256": "b245c41676fb608c5d8e5ffcb981b906b48be4d0ac859dba2d608543aa828959"
+        },
+        {
+          "file": "mit-8101-s03-s013.mp3",
+          "title": "12. Consolidation",
+          "seconds": 121.234667,
+          "startSection": 13,
+          "endSection": 13,
+          "sha256": "66c69de750bbb9ef9a779b953d629cf328c114cad737cdbf2a7484d18c71cb8d"
+        },
+        {
+          "file": "mit-8101-s03-s014.mp3",
+          "title": "CA Q23",
+          "seconds": 263.028667,
+          "startSection": 14,
+          "endSection": 14,
+          "sha256": "cd641be15568ee0d37a643d2a6e76cc04c74ae87b4ed18cc98151056bc61cdb4"
+        },
+        {
+          "file": "mit-8101-s03-s015.mp3",
+          "title": "CA Q33",
+          "seconds": 125.032,
+          "startSection": 15,
+          "endSection": 15,
+          "sha256": "383cf54f0f6685ac5844fe5d965417f0cb7d03c2bacefd26c44fb444cc0e2557"
         }
       ],
-      "complete": false,
-      "durationSeconds": 1924.715293
+      "complete": true,
+      "durationSeconds": 2434.010627
     },
     {
       "number": 4,
@@ -290,5 +314,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:18:14Z"
+  "updatedAt": "2026-11-25T17:19:51Z"
 }
