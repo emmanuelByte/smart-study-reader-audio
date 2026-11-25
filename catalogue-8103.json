@@ -98,7 +98,7 @@
       "title": "Distributed Database Systems",
       "sourceSha256": "b01cc68f02aade9fe4b7f043aba7c402db2978576b479cb9b855ef0c3c36e8a6",
       "totalSections": 10,
-      "readySections": 1,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8103-s02-s001.mp3",
@@ -107,10 +107,50 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "2359fa3e1e660449e098a974336fa4536d4f9bc66cc658c1e97ac9b50c1d9b50"
+        },
+        {
+          "file": "mit-8103-s02-s002.mp3",
+          "title": "2. Fragmentation and allocation",
+          "seconds": 270.254667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "c359a9502ebdae6bc44c063ca0c0c3edf6c8624dc0f2437f00c53798151a7bf0"
+        },
+        {
+          "file": "mit-8103-s02-s003.mp3",
+          "title": "3. Replication and consistency",
+          "seconds": 207.104667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "3171046827cc3bbecbb141b17a1e49c0fe94d13c3bde566fc59bf12592af98e1"
+        },
+        {
+          "file": "mit-8103-s02-s004.mp3",
+          "title": "4. Distributed transactions",
+          "seconds": 167.174667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "371058b498a87c1c92e112f975546c423bcd137103ee46e862fe92482157845b"
+        },
+        {
+          "file": "mit-8103-s02-s005.mp3",
+          "title": "5. CAP theorem and ACID versus BASE",
+          "seconds": 231.482667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "3b2a2175b9459af27adbd99c24f1750fc6a2218b428196fa9438a14d090bfbd5"
+        },
+        {
+          "file": "mit-8103-s02-s006.mp3",
+          "title": "6. Failure management and architecture design",
+          "seconds": 230.437333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "7affe09fe1202a373c11917fdcf75130dd0c9bc713b7ead46eb5e8cf5fcad314"
         }
       ],
       "complete": false,
-      "durationSeconds": 273.668
+      "durationSeconds": 1380.122
     },
     {
       "number": 3,
@@ -153,5 +193,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T21:44:31Z"
+  "updatedAt": "2026-11-25T21:53:26Z"
 }
