@@ -290,7 +290,7 @@
       "number": 4,
       "title": "IT Operations, Service and Change Management",
       "totalSections": 15,
-      "readySections": 9,
+      "readySections": 12,
       "tracks": [
         {
           "file": "mit-8101-s04-s001.mp3",
@@ -363,10 +363,34 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "c9f2d528d5b618c9ae88a8f353d35c227c75180151b1fec602f3ba46c6a7b0e9"
+        },
+        {
+          "file": "mit-8101-s04-s010.mp3",
+          "title": "Worked transformation scenario",
+          "seconds": 211.307333,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "c9d797c3b9fc7c5b922f6f416b5987d2b71c9249eecb019bc3582226f046fb5d"
+        },
+        {
+          "file": "mit-8101-s04-s011.mp3",
+          "title": "Earned value example",
+          "seconds": 267.332,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "13375abcce25d4fc692cc278689dc8b753fb0335e71329ef6ba8ef9001f28173"
+        },
+        {
+          "file": "mit-8101-s04-s012.mp3",
+          "title": "12. Practical lab: IAM and RBAC auditing",
+          "seconds": 251.124667,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "42dda10d52af6f2091f87dc915b284779d03f113278a63eeeaa61e57ee40c448"
         }
       ],
       "complete": false,
-      "durationSeconds": 1452.420666
+      "durationSeconds": 2182.184666
     },
     {
       "number": 5,
@@ -387,5 +411,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:26:55Z"
+  "updatedAt": "2026-11-25T17:29:20Z"
 }
