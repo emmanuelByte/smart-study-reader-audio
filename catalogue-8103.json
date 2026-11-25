@@ -7,10 +7,19 @@
       "title": "Review of Traditional Relational Databases and Advanced Concepts",
       "sourceSha256": "a5a691130a04e7f3519ecf693b5240248c7eb352a5f323096eb6aa022c07308f",
       "totalSections": 10,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8103-s01-s001.mp3",
+          "title": "Components and architecture",
+          "seconds": 249.226,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "8b8fd16dbf4fdc7a3f4e799432c7630de77a2f3a3d33daf9f69cc79b05b1a756"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 249.226
     },
     {
       "number": 2,
@@ -63,5 +72,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T21:29:57Z"
+  "updatedAt": "2026-11-25T21:30:46Z"
 }
