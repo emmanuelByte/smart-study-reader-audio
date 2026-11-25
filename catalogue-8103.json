@@ -446,7 +446,7 @@
       "title": "Database Integration, Data Security and Data Privacy",
       "sourceSha256": "87aec01d20aa72f6767440da78ec4254b390985058e61bc8da3c6845f5a1a483",
       "totalSections": 9,
-      "readySections": 8,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8103-s06-s001.mp3",
@@ -511,11 +511,19 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "054fe5d5d7539c38880a0fc68eb768a5ca99c141432ceabb437cd992f622b695"
+        },
+        {
+          "file": "mit-8103-s06-s009.mp3",
+          "title": "Pre-test Q8",
+          "seconds": 99.608667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "0b13affa701758053774f50ed5780ec10a80fefd4628f13858b17571085eaf2f"
         }
       ],
-      "complete": false,
-      "durationSeconds": 2055.301
+      "complete": true,
+      "durationSeconds": 2154.91
     }
   ],
-  "updatedAt": "2026-11-25T22:54:47Z"
+  "updatedAt": "2026-11-25T22:55:57Z"
 }
