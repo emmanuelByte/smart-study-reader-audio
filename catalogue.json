@@ -420,7 +420,7 @@
       "number": 5,
       "title": "Performance, Continuity and Resilience in IT",
       "totalSections": 13,
-      "readySections": 3,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8101-s05-s001.mp3",
@@ -445,10 +445,34 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "10fae16439501ee1954e3402ee768f624cdd15f85952b8b9a91de314234b32df"
+        },
+        {
+          "file": "mit-8101-s05-s004.mp3",
+          "title": "4. Dashboards and continuous improvement",
+          "seconds": 174.918667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "46aadd2fae2ac10a82e4283f3a94e3d2e4bccfaafab4abc99b8502f51551ceda"
+        },
+        {
+          "file": "mit-8101-s05-s005.mp3",
+          "title": "Chaos engineering",
+          "seconds": 204.907333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "721158866503bf3bf0dc6c497ede6d631e2f9494fe845f32df67a552a8cb531d"
+        },
+        {
+          "file": "mit-8101-s05-s006.mp3",
+          "title": "Continuity plan contents",
+          "seconds": 206.464667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "7d04e1f2c9519b3dc4a6128c466233439ce22226c87e51d18282fe8c15a08b41"
         }
       ],
       "complete": false,
-      "durationSeconds": 556.323334
+      "durationSeconds": 1142.614001
     },
     {
       "number": 6,
@@ -460,5 +484,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:33:33Z"
+  "updatedAt": "2026-11-25T17:36:57Z"
 }
