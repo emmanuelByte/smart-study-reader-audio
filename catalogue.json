@@ -160,7 +160,7 @@
       "number": 3,
       "title": "IT Governance, Compliance and Risk Management",
       "totalSections": 15,
-      "readySections": 9,
+      "readySections": 12,
       "tracks": [
         {
           "file": "mit-8101-s03-s001.mp3",
@@ -233,10 +233,34 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "1a59103ee7e2a9eb8bf580da56b23ea7d9ea7477ddcb1eb6fd23f405e3720164"
+        },
+        {
+          "file": "mit-8101-s03-s010.mp3",
+          "title": "9. Change management",
+          "seconds": 143.287333,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "714e5637acfa052da10fff60faac1f22a709580cead2921c9728d294e85d7264"
+        },
+        {
+          "file": "mit-8101-s03-s011.mp3",
+          "title": "10. Business continuity and resilience",
+          "seconds": 177.649958,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "31c106fe225972ac763dee3981d46b27d3458384f2821317e9114d86817c8319"
+        },
+        {
+          "file": "mit-8101-s03-s012.mp3",
+          "title": "11. Practical lab: automated SLA tracking",
+          "seconds": 185.046,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "b245c41676fb608c5d8e5ffcb981b906b48be4d0ac859dba2d608543aa828959"
         }
       ],
       "complete": false,
-      "durationSeconds": 1418.732002
+      "durationSeconds": 1924.715293
     },
     {
       "number": 4,
@@ -266,5 +290,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:16:26Z"
+  "updatedAt": "2026-11-25T17:18:14Z"
 }
