@@ -290,10 +290,19 @@
       "number": 4,
       "title": "IT Operations, Service and Change Management",
       "totalSections": 15,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8101-s04-s001.mp3",
+          "title": "1. Learning objectives",
+          "seconds": 107.752,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "36392fc41ce06c10c3f10016435d71d9ff0cf42383acdcd0c59a4dd84d1a4638"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 107.752
     },
     {
       "number": 5,
@@ -314,5 +323,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:19:51Z"
+  "updatedAt": "2026-11-25T17:20:40Z"
 }
