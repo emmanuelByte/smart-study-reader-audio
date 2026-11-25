@@ -534,7 +534,7 @@
       "number": 6,
       "title": "Emerging Trends and Financial Management in IT",
       "totalSections": 13,
-      "readySections": 3,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8101-s06-s001.mp3",
@@ -559,11 +559,35 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "c85a5ccd28b235601a768d04506237af783f176a05293f26ed4676d0646bc874"
+        },
+        {
+          "file": "mit-8101-s06-s004.mp3",
+          "title": "4. IT budgeting and financial planning",
+          "seconds": 171.1,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "34c605fe9ec2dca8ed4bc6e01e39dada14b77d0dbfcb785ca0921759f06282b1"
+        },
+        {
+          "file": "mit-8101-s06-s005.mp3",
+          "title": "5. Total cost of ownership and ROI",
+          "seconds": 154.444667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "b0dbe868159ff4e1c5e4664fcef994a7aed885ef270fe3658dcba851d271014c"
+        },
+        {
+          "file": "mit-8101-s06-s006.mp3",
+          "title": "6. Cost optimisation and sourcing",
+          "seconds": 122.045333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "60973c87c8ac7baba3a0448bf16774c89f18bec9e1fa6ab87b541b22660e5ba6"
         }
       ],
       "complete": false,
-      "durationSeconds": 451.963333
+      "durationSeconds": 899.553333
     }
   ],
-  "updatedAt": "2026-11-25T17:42:49Z"
+  "updatedAt": "2026-11-25T17:44:17Z"
 }
