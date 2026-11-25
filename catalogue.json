@@ -290,7 +290,7 @@
       "number": 4,
       "title": "IT Operations, Service and Change Management",
       "totalSections": 15,
-      "readySections": 6,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8101-s04-s001.mp3",
@@ -339,10 +339,34 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "470c626899fe711c049e42b9065b0d905362985a7310536f4bd2311c9d19f26c"
+        },
+        {
+          "file": "mit-8101-s04-s007.mp3",
+          "title": "7. Service quality",
+          "seconds": 153.442,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "ed277ec09e93d21c065762f139f04331b21aa8861810f8fc2c2e5d8127c40e5a"
+        },
+        {
+          "file": "mit-8101-s04-s008.mp3",
+          "title": "8. Change management: technology and people",
+          "seconds": 151.543333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "e1ce3189347b38e7a1c3c12cc385b86477ff8b2ce006d3da4ef33afc5f8ca5bf"
+        },
+        {
+          "file": "mit-8101-s04-s009.mp3",
+          "title": "ADKAR",
+          "seconds": 210.326,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "c9f2d528d5b618c9ae88a8f353d35c227c75180151b1fec602f3ba46c6a7b0e9"
         }
       ],
       "complete": false,
-      "durationSeconds": 937.109333
+      "durationSeconds": 1452.420666
     },
     {
       "number": 5,
@@ -363,5 +387,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:25:00Z"
+  "updatedAt": "2026-11-25T17:26:55Z"
 }
