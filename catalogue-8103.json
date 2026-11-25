@@ -98,7 +98,7 @@
       "title": "Distributed Database Systems",
       "sourceSha256": "b01cc68f02aade9fe4b7f043aba7c402db2978576b479cb9b855ef0c3c36e8a6",
       "totalSections": 10,
-      "readySections": 6,
+      "readySections": 10,
       "tracks": [
         {
           "file": "mit-8103-s02-s001.mp3",
@@ -147,20 +147,61 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "7affe09fe1202a373c11917fdcf75130dd0c9bc713b7ead46eb5e8cf5fcad314"
+        },
+        {
+          "file": "mit-8103-s02-s007.mp3",
+          "title": "GlobalCare case details and additional comparison",
+          "seconds": 292.371333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "c3591e496aeb3e4d86104095d4e6f696f0074ec9a29764b41255e6c39cf3c47a"
+        },
+        {
+          "file": "mit-8103-s02-s008.mp3",
+          "title": "GlobalCare case details and additional comparison",
+          "seconds": 221.84,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "d485d0a69a0b4dda00541a8d46aada11e9890acb83adb0da987a787f75e16ee2"
+        },
+        {
+          "file": "mit-8103-s02-s009.mp3",
+          "title": "Model essay answer: CAP, fragmentation and replication in a global hospital",
+          "seconds": 254.602,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "84f0656b60b8ad3be581abb36cc00b666278ae2cd434b9bf0e1b2b75956cf086"
+        },
+        {
+          "file": "mit-8103-s02-s010.mp3",
+          "title": "Pre-test Q5",
+          "seconds": 170.204,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "f7dba5dc8b137da3708da8e0c7d22e66173e3f4586b46322010ab8515d6c6ff2"
         }
       ],
-      "complete": false,
-      "durationSeconds": 1380.122
+      "complete": true,
+      "durationSeconds": 2319.139
     },
     {
       "number": 3,
       "title": "Big Data and Cloud Database Systems",
       "sourceSha256": "956cd339df44bba042c937b9e75eb106caf1005381ac1a46f62aa486e17595ae",
       "totalSections": 9,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8103-s03-s001.mp3",
+          "title": "1. Big data fundamentals",
+          "seconds": 179.761958,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "efb33ce218a0d5f50827d2bad71a4f6810d6a77a8b078df614fd477be93f2209"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 179.762
     },
     {
       "number": 4,
@@ -193,5 +234,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T21:53:26Z"
+  "updatedAt": "2026-11-25T22:01:58Z"
 }
