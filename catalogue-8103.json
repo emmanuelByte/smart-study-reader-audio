@@ -363,7 +363,7 @@
       "title": "Emerging Trends in Database Systems",
       "sourceSha256": "a15646307338a341f14c72546cd4ae9aeb850e6087b7c385c5d0472e2c818ce6",
       "totalSections": 9,
-      "readySections": 2,
+      "readySections": 7,
       "tracks": [
         {
           "file": "mit-8103-s05-s001.mp3",
@@ -380,10 +380,50 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "b9b5ab4f1c5e853e959c4fb01e5c7a811923c62b93c3614ebe16acc4cfea50f9"
+        },
+        {
+          "file": "mit-8103-s05-s003.mp3",
+          "title": "3. Edge and serverless databases",
+          "seconds": 257.332667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "b5140855ec5a50b9537ad2187b46060964d830125ae9e5d03398f3e2790be643"
+        },
+        {
+          "file": "mit-8103-s05-s004.mp3",
+          "title": "4. Graph databases",
+          "seconds": 255.498,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "e59d2254123246a013ceccea2f004e8d3292ba9d51a5e23a02b6ee360545f1f0"
+        },
+        {
+          "file": "mit-8103-s05-s005.mp3",
+          "title": "5. Practical Cypher and graph reasoning",
+          "seconds": 197.291333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "158af1b9c846c9c65a3a001a73acd007b126571f3988fcbc50ed432ab8bd6967"
+        },
+        {
+          "file": "mit-8103-s05-s006.mp3",
+          "title": "6. Lagos Smart City case",
+          "seconds": 184.198667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "98f38f962e61473a591e6ed6b2475a9fa5eab4ec936277bbf1a377c40f06795c"
+        },
+        {
+          "file": "mit-8103-s05-s007.mp3",
+          "title": "Additional case specifics and technology examples",
+          "seconds": 222.522667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "28d0a1f1ea879e672c7ff8de8cfa98958b697578830e626924f666fa7a4b88c9"
         }
       ],
       "complete": false,
-      "durationSeconds": 615.691
+      "durationSeconds": 1732.535
     },
     {
       "number": 6,
@@ -396,5 +436,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T22:33:05Z"
+  "updatedAt": "2026-11-25T22:39:38Z"
 }
