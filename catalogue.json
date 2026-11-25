@@ -420,10 +420,19 @@
       "number": 5,
       "title": "Performance, Continuity and Resilience in IT",
       "totalSections": 13,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8101-s05-s001.mp3",
+          "title": "1. Learning objectives",
+          "seconds": 88.280667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "d803c2b9d29f10cb8787245f2818bcd8d9c6f23731c4428a2367149dd268d883"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 88.280667
     },
     {
       "number": 6,
@@ -435,5 +444,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:31:09Z"
+  "updatedAt": "2026-11-25T17:31:44Z"
 }
