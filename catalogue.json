@@ -6,7 +6,7 @@
       "number": 1,
       "title": "Introduction to Information Technology Management",
       "totalSections": 23,
-      "readySections": 9,
+      "readySections": 12,
       "tracks": [
         {
           "file": "mit-8101-s01-part-01.mp3",
@@ -45,10 +45,34 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "d586101dd88f4d7ddd91d598ee60a40221163310a98f1ad65ad26b2055322f63"
+        },
+        {
+          "file": "mit-8101-s01-s010.mp3",
+          "title": "IT manager as ecosystem leader",
+          "seconds": 300.073958,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "84758d7e7bc5e3203f6e0abcfb9d8c383d65fdb6776507b332d1be098212326d"
+        },
+        {
+          "file": "mit-8101-s01-s011.mp3",
+          "title": "IT manager as ecosystem leader",
+          "seconds": 58.42,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "705ed06c7b9c20bd6121d96dd27b026b00286917cb135a9868376d8205cf19ea"
+        },
+        {
+          "file": "mit-8101-s01-s012.mp3",
+          "title": "Scrum",
+          "seconds": 238.522667,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "ab70ab41cb52eabce3a5c41b255c439dd579ad6403facd75714ab4518f0663d1"
         }
       ],
       "complete": false,
-      "durationSeconds": 1880.8486659999999
+      "durationSeconds": 2477.865291
     },
     {
       "number": 2,
@@ -669,5 +693,5 @@
       "durationSeconds": 2179.3413339999997
     }
   ],
-  "updatedAt": "2026-11-25T18:21:25Z"
+  "updatedAt": "2026-11-25T18:24:03Z"
 }
