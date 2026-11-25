@@ -6,7 +6,7 @@
       "number": 1,
       "title": "Introduction to Information Technology Management",
       "totalSections": 23,
-      "readySections": 21,
+      "readySections": 23,
       "tracks": [
         {
           "file": "mit-8101-s01-part-01.mp3",
@@ -141,10 +141,26 @@
           "startSection": 21,
           "endSection": 21,
           "sha256": "4efdc643cb5e37cc6cf6481a195eb92dba3b57f2513d5b8c1ef34f73cead2950"
+        },
+        {
+          "file": "mit-8101-s01-s022.mp3",
+          "title": "CA Q36",
+          "seconds": 253.642,
+          "startSection": 22,
+          "endSection": 22,
+          "sha256": "9abedb3461bdf412e327b7ec4b189b5dd0b6d9c170cc8697a040d4fb8e2e514d"
+        },
+        {
+          "file": "mit-8101-s01-s023.mp3",
+          "title": "CA Q40",
+          "seconds": 204.544667,
+          "startSection": 23,
+          "endSection": 23,
+          "sha256": "2d75ed362757ea428a63916f2661def9b0d76b940e47a733cfb57929d2c5e1d6"
         }
       ],
-      "complete": false,
-      "durationSeconds": 4372.637291
+      "complete": true,
+      "durationSeconds": 4830.823958
     },
     {
       "number": 2,
@@ -765,5 +781,5 @@
       "durationSeconds": 2179.3413339999997
     }
   ],
-  "updatedAt": "2026-11-25T18:37:53Z"
+  "updatedAt": "2026-11-25T18:43:01Z"
 }
