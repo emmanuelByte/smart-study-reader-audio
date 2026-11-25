@@ -6,7 +6,7 @@
       "number": 1,
       "title": "Introduction to Information Technology Management",
       "totalSections": 23,
-      "readySections": 15,
+      "readySections": 18,
       "tracks": [
         {
           "file": "mit-8101-s01-part-01.mp3",
@@ -93,10 +93,34 @@
           "startSection": 15,
           "endSection": 15,
           "sha256": "8b1b91bcab43a58c6d59d4f51da0b03f6fd2ee3b868c8027997ad560a64b6d60"
+        },
+        {
+          "file": "mit-8101-s01-s016.mp3",
+          "title": "Essential distinctions to retain",
+          "seconds": 277.508,
+          "startSection": 16,
+          "endSection": 16,
+          "sha256": "73f4243daa1b37a757e90660e72dc0f9b22cc6ff6b98a99c0ad01e5988fae539"
+        },
+        {
+          "file": "mit-8101-s01-s017.mp3",
+          "title": "13. Learning outcome checklist",
+          "seconds": 103.939333,
+          "startSection": 17,
+          "endSection": 17,
+          "sha256": "43ab29c07a1444e08a762456a5ef55f31da1c46a48f05cd1b3b9cf636fab853c"
+        },
+        {
+          "file": "mit-8101-s01-s018.mp3",
+          "title": "CA Q5",
+          "seconds": 237.029333,
+          "startSection": 18,
+          "endSection": 18,
+          "sha256": "c1bcd3e81cc9383bc10bb291c964dd6f53e067234ed4df3ff0b86cab4edc7a2d"
         }
       ],
       "complete": false,
-      "durationSeconds": 2998.354625
+      "durationSeconds": 3616.831291
     },
     {
       "number": 2,
@@ -717,5 +741,5 @@
       "durationSeconds": 2179.3413339999997
     }
   ],
-  "updatedAt": "2026-11-25T18:27:36Z"
+  "updatedAt": "2026-11-25T18:33:55Z"
 }
