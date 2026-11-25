@@ -363,7 +363,7 @@
       "title": "Emerging Trends in Database Systems",
       "sourceSha256": "a15646307338a341f14c72546cd4ae9aeb850e6087b7c385c5d0472e2c818ce6",
       "totalSections": 9,
-      "readySections": 7,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8103-s05-s001.mp3",
@@ -420,21 +420,62 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "28d0a1f1ea879e672c7ff8de8cfa98958b697578830e626924f666fa7a4b88c9"
+        },
+        {
+          "file": "mit-8103-s05-s008.mp3",
+          "title": "Model essay answer: assess intelligent and decentralised smart-city databases",
+          "seconds": 297.640667,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "f3392dfc058ea81d9591714022d196f0f476c02dead1292b31dd1c9dcad6b703"
+        },
+        {
+          "file": "mit-8103-s05-s009.mp3",
+          "title": "Pre-test Q7",
+          "seconds": 128.914667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "20f74f3672188533253da570c61e859263b1b07c6e4d212875ff258ca17b33a2"
         }
       ],
-      "complete": false,
-      "durationSeconds": 1732.535
+      "complete": true,
+      "durationSeconds": 2159.09
     },
     {
       "number": 6,
       "title": "Database Integration, Data Security and Data Privacy",
       "sourceSha256": "87aec01d20aa72f6767440da78ec4254b390985058e61bc8da3c6845f5a1a483",
       "totalSections": 9,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 3,
+      "tracks": [
+        {
+          "file": "mit-8103-s06-s001.mp3",
+          "title": "1. Integration, security and privacy",
+          "seconds": 257.844667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "e0c1ba62d013960b2d96c7e800637a06d92d52f444c375b87b88ad89f1c44ed3"
+        },
+        {
+          "file": "mit-8103-s06-s002.mp3",
+          "title": "2. Privacy threats and protection mechanisms",
+          "seconds": 293.929958,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "ce06d1a6e1f0e4bf481b76c4218abc1e15e1b0b9e45fc2ce24a3a2cc0fc03167"
+        },
+        {
+          "file": "mit-8103-s06-s003.mp3",
+          "title": "3. Nigeria Data Protection Act 2023",
+          "seconds": 220.944,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "3ed880f9d366ee8e23e4d13ff247a13ef0fa97dabb1083aa9b493a1dc029923f"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 772.719
     }
   ],
-  "updatedAt": "2026-11-25T22:39:38Z"
+  "updatedAt": "2026-11-25T22:47:52Z"
 }
