@@ -160,7 +160,7 @@
       "number": 3,
       "title": "IT Governance, Compliance and Risk Management",
       "totalSections": 15,
-      "readySections": 6,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8101-s03-s001.mp3",
@@ -209,10 +209,34 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "a67603dae68aa2c53cc54886ab551ddd9e74256d8d2f4db9c7f920da2ad377d9"
+        },
+        {
+          "file": "mit-8101-s03-s007.mp3",
+          "title": "Worked risk assessment",
+          "seconds": 243.962667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "734ae32bfab0b168ba209977c63559141583835941f1f63b671c9815e1200061"
+        },
+        {
+          "file": "mit-8101-s03-s008.mp3",
+          "title": "FinTech scenario",
+          "seconds": 161.804667,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "b65dce41babb5113bfcd7816399aa9bd9464175f6a98c217eb7be97ede35e2e5"
+        },
+        {
+          "file": "mit-8101-s03-s009.mp3",
+          "title": "8. IT service desk and ITSM",
+          "seconds": 154.658,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "1a59103ee7e2a9eb8bf580da56b23ea7d9ea7477ddcb1eb6fd23f405e3720164"
         }
       ],
       "complete": false,
-      "durationSeconds": 858.3066680000001
+      "durationSeconds": 1418.732002
     },
     {
       "number": 4,
@@ -242,5 +266,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:13:58Z"
+  "updatedAt": "2026-11-25T17:16:26Z"
 }
