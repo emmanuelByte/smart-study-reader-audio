@@ -534,7 +534,7 @@
       "number": 6,
       "title": "Emerging Trends and Financial Management in IT",
       "totalSections": 13,
-      "readySections": 6,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8101-s06-s001.mp3",
@@ -583,11 +583,35 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "60973c87c8ac7baba3a0448bf16774c89f18bec9e1fa6ab87b541b22660e5ba6"
+        },
+        {
+          "file": "mit-8101-s06-s007.mp3",
+          "title": "Prioritisation methods",
+          "seconds": 316.194667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "b2a6a060d3704d445a95610086baae714406ea2913fabd3a93b8a90a492b3fe1"
+        },
+        {
+          "file": "mit-8101-s06-s008.mp3",
+          "title": "8. Strategic resource allocation and human capital",
+          "seconds": 186.326,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "f4bc7812de2e0f358c083c5faee38e1ecd8f9a7eb27e77fa5f709ed05d2bcd43"
+        },
+        {
+          "file": "mit-8101-s06-s009.mp3",
+          "title": "9. Governance and value realisation",
+          "seconds": 147.447333,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "ba80a4030fa471560751f07e060fb445f50a8237ee2504199caee077f50b8972"
         }
       ],
       "complete": false,
-      "durationSeconds": 899.553333
+      "durationSeconds": 1549.521333
     }
   ],
-  "updatedAt": "2026-11-25T17:44:17Z"
+  "updatedAt": "2026-11-25T17:46:18Z"
 }
