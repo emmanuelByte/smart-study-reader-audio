@@ -7,7 +7,7 @@
       "title": "Review of Traditional Relational Databases and Advanced Concepts",
       "sourceSha256": "a5a691130a04e7f3519ecf693b5240248c7eb352a5f323096eb6aa022c07308f",
       "totalSections": 10,
-      "readySections": 1,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8103-s01-s001.mp3",
@@ -16,10 +16,50 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "8b8fd16dbf4fdc7a3f4e799432c7630de77a2f3a3d33daf9f69cc79b05b1a756"
+        },
+        {
+          "file": "mit-8103-s01-s002.mp3",
+          "title": "2. Database design and relational model",
+          "seconds": 300.649958,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "736cda0442ca001e7ea8c7c9629b61864933b5719dfb9bd6ebfdf3d2bb9c1953"
+        },
+        {
+          "file": "mit-8103-s01-s003.mp3",
+          "title": "2. Database design and relational model",
+          "seconds": 173.809958,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "918569cf93d3bfadef102cec678916f9689476a47c46926707c5745803195509"
+        },
+        {
+          "file": "mit-8103-s01-s004.mp3",
+          "title": "3. Normalisation and functional dependencies",
+          "seconds": 243.871333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "a0bf7da3d67317f1b7bda1036f76b6aaca4934a335143086f3facc058accd1af"
+        },
+        {
+          "file": "mit-8103-s01-s005.mp3",
+          "title": "4. Transactions and concurrency (CA application)",
+          "seconds": 337.997333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "4750655289876bcf802f4875bd668c214082fa7b468c82a651863db5dd49d576"
+        },
+        {
+          "file": "mit-8103-s01-s006.mp3",
+          "title": "5. Traditional and advanced database types",
+          "seconds": 337.01,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "b8add3121a164922c274fb19b7daec31c829f0bc5b2b26de83fb63857a7ae576"
         }
       ],
       "complete": false,
-      "durationSeconds": 249.226
+      "durationSeconds": 1642.565
     },
     {
       "number": 2,
@@ -72,5 +112,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T21:35:23Z"
+  "updatedAt": "2026-11-25T21:39:29Z"
 }
