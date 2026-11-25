@@ -30,7 +30,7 @@
       "number": 2,
       "title": "IT Strategy and Business Alignment",
       "totalSections": 15,
-      "readySections": 6,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8101-s02-s001.mp3",
@@ -79,10 +79,34 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "9b6bd27ec9254fe4c9e2ebea98ffd6ff133bf937066938eaa0b6eb2135cd4b24"
+        },
+        {
+          "file": "mit-8101-s02-s007.mp3",
+          "title": "Digital maturity",
+          "seconds": 221.370667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "403c311cad04774adc5ce97ed2ab2fc93b7fa4b9e2118dd7a8188edcb687a40c"
+        },
+        {
+          "file": "mit-8101-s02-s008.mp3",
+          "title": "6. Digital capabilities and moats",
+          "seconds": 223.141333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "e519190c65dbc8f4ad45c994951334b343bea1299e342de59e30a7483a0cca81"
+        },
+        {
+          "file": "mit-8101-s02-s009.mp3",
+          "title": "7. Risks and ethical limits",
+          "seconds": 131.346667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "93b01dce1cbaad95786205f5dc69918e90bee243902c3a07ba991bdbfb8d0164"
         }
       ],
       "complete": false,
-      "durationSeconds": 981.157292
+      "durationSeconds": 1557.015959
     },
     {
       "number": 3,
@@ -121,5 +145,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:05:01Z"
+  "updatedAt": "2026-11-25T17:06:55Z"
 }
