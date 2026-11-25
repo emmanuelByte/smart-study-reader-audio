@@ -534,11 +534,20 @@
       "number": 6,
       "title": "Emerging Trends and Financial Management in IT",
       "totalSections": 13,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8101-s06-s001.mp3",
+          "title": "1. Learning objectives",
+          "seconds": 62.26,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "d6dc0f3fcc8d80d53a463a011c8a719f7a069f8228267cd8e628506befe8b6f6"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 62.26
     }
   ],
-  "updatedAt": "2026-11-25T17:41:14Z"
+  "updatedAt": "2026-11-25T17:41:42Z"
 }
