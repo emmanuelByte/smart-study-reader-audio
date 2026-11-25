@@ -7,7 +7,7 @@
       "title": "Review of Traditional Relational Databases and Advanced Concepts",
       "sourceSha256": "a5a691130a04e7f3519ecf693b5240248c7eb352a5f323096eb6aa022c07308f",
       "totalSections": 10,
-      "readySections": 6,
+      "readySections": 10,
       "tracks": [
         {
           "file": "mit-8103-s01-s001.mp3",
@@ -56,20 +56,61 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "b8add3121a164922c274fb19b7daec31c829f0bc5b2b26de83fb63857a7ae576"
+        },
+        {
+          "file": "mit-8103-s01-s007.mp3",
+          "title": "6. Applied portfolio and essay preparation",
+          "seconds": 323.048667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "787ac8aab9e2f209a03bd2c53f00a631b77545b93b6a300ff38aaea629eb1f72"
+        },
+        {
+          "file": "mit-8103-s01-s008.mp3",
+          "title": "Additional design revision",
+          "seconds": 284.74,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "0c1ef6d8a56334ccf010f5376e7f4f286d0ccb50ee48772b69278b877f9270ed"
+        },
+        {
+          "file": "mit-8103-s01-s009.mp3",
+          "title": "Model essay answer: design a reliable clinical database",
+          "seconds": 241.866,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "2c8aa49e382b0aeb1040a42d08b886533a55e9d30a70c900f81c13c9adf04afa"
+        },
+        {
+          "file": "mit-8103-s01-s010.mp3",
+          "title": "Pre-test Q4",
+          "seconds": 170.353958,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "75a490c90e1f521d074526470e78d4c0c9515550889091e0da09c6c65ebab57c"
         }
       ],
-      "complete": false,
-      "durationSeconds": 1642.565
+      "complete": true,
+      "durationSeconds": 2662.573
     },
     {
       "number": 2,
       "title": "Distributed Database Systems",
       "sourceSha256": "b01cc68f02aade9fe4b7f043aba7c402db2978576b479cb9b855ef0c3c36e8a6",
       "totalSections": 10,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8103-s02-s001.mp3",
+          "title": "1. What makes a database distributed?",
+          "seconds": 273.668,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "2359fa3e1e660449e098a974336fa4536d4f9bc66cc658c1e97ac9b50c1d9b50"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 273.668
     },
     {
       "number": 3,
@@ -112,5 +153,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T21:39:29Z"
+  "updatedAt": "2026-11-25T21:44:31Z"
 }
