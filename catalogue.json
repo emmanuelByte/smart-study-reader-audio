@@ -160,10 +160,19 @@
       "number": 3,
       "title": "IT Governance, Compliance and Risk Management",
       "totalSections": 15,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8101-s03-s001.mp3",
+          "title": "IT Governance, Compliance and Risk Management",
+          "seconds": 27.178667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "5dcd915912e17a94d61d798c65b7513240e28af8fcc37d6241a5a39d6e33a41c"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 27.178667
     },
     {
       "number": 4,
@@ -193,5 +202,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:10:51Z"
+  "updatedAt": "2026-11-25T17:11:25Z"
 }
