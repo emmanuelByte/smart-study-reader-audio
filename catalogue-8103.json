@@ -1,0 +1,67 @@
+{
+  "course": "MIT 8103",
+  "title": "Advanced Database Systems",
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Review of Traditional Relational Databases and Advanced Concepts",
+      "sourceSha256": "a5a691130a04e7f3519ecf693b5240248c7eb352a5f323096eb6aa022c07308f",
+      "totalSections": 10,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 2,
+      "title": "Distributed Database Systems",
+      "sourceSha256": "b01cc68f02aade9fe4b7f043aba7c402db2978576b479cb9b855ef0c3c36e8a6",
+      "totalSections": 10,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 3,
+      "title": "Big Data and Cloud Database Systems",
+      "sourceSha256": "956cd339df44bba042c937b9e75eb106caf1005381ac1a46f62aa486e17595ae",
+      "totalSections": 9,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 4,
+      "title": "Query Optimisation and File Organisation",
+      "sourceSha256": "d65e8c0ab12d92f56db54724f0be14a97a74654fd8e9ee54bfea453e74c44956",
+      "totalSections": 10,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 5,
+      "title": "Emerging Trends in Database Systems",
+      "sourceSha256": "a15646307338a341f14c72546cd4ae9aeb850e6087b7c385c5d0472e2c818ce6",
+      "totalSections": 9,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    },
+    {
+      "number": 6,
+      "title": "Database Integration, Data Security and Data Privacy",
+      "sourceSha256": "87aec01d20aa72f6767440da78ec4254b390985058e61bc8da3c6845f5a1a483",
+      "totalSections": 9,
+      "readySections": 0,
+      "tracks": [],
+      "complete": false,
+      "durationSeconds": 0
+    }
+  ],
+  "updatedAt": "2026-11-25T21:29:57Z"
+}
