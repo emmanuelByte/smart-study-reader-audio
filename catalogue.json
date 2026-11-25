@@ -30,7 +30,7 @@
       "number": 2,
       "title": "IT Strategy and Business Alignment",
       "totalSections": 15,
-      "readySections": 9,
+      "readySections": 12,
       "tracks": [
         {
           "file": "mit-8101-s02-s001.mp3",
@@ -103,10 +103,34 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "93b01dce1cbaad95786205f5dc69918e90bee243902c3a07ba991bdbfb8d0164"
+        },
+        {
+          "file": "mit-8101-s02-s010.mp3",
+          "title": "Efficiency transformation roadmap",
+          "seconds": 282.052,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "1a695e4c912fa277f00cd22b63e575ed055e810be376bc1fdc689ebe21f58a91"
+        },
+        {
+          "file": "mit-8101-s02-s011.mp3",
+          "title": "9. Measuring strategic IT value",
+          "seconds": 166.769333,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "57a82f3c9857b01a4b6680f7c2cf3b599b5b48879fdef0035f53408252f3f457"
+        },
+        {
+          "file": "mit-8101-s02-s012.mp3",
+          "title": "10. Applied case: MetroHealth HMO",
+          "seconds": 188.224667,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "9b3f67a6c13d4de20c697af8159fcc3492acc284d07a703d9535643f18fc316e"
         }
       ],
       "complete": false,
-      "durationSeconds": 1557.015959
+      "durationSeconds": 2194.061959
     },
     {
       "number": 3,
@@ -145,5 +169,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:06:55Z"
+  "updatedAt": "2026-11-25T17:09:01Z"
 }
