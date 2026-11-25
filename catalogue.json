@@ -30,7 +30,7 @@
       "number": 2,
       "title": "IT Strategy and Business Alignment",
       "totalSections": 15,
-      "readySections": 12,
+      "readySections": 15,
       "tracks": [
         {
           "file": "mit-8101-s02-s001.mp3",
@@ -127,10 +127,34 @@
           "startSection": 12,
           "endSection": 12,
           "sha256": "9b3f67a6c13d4de20c697af8159fcc3492acc284d07a703d9535643f18fc316e"
+        },
+        {
+          "file": "mit-8101-s02-s013.mp3",
+          "title": "11. Practical lesson: Infrastructure as Code and automated policy enforcement",
+          "seconds": 202.667333,
+          "startSection": 13,
+          "endSection": 13,
+          "sha256": "eea6f0bb2db255a7b3ca7ad4bed10b994c29422e67c41a536c45907524c6b41b"
+        },
+        {
+          "file": "mit-8101-s02-s014.mp3",
+          "title": "12. Session consolidation",
+          "seconds": 69.364,
+          "startSection": 14,
+          "endSection": 14,
+          "sha256": "62c21b91ed6a2168d4aa2425098d7e8cac747cb5bbcacd9eb4068e4f56e638b8"
+        },
+        {
+          "file": "mit-8101-s02-s015.mp3",
+          "title": "CA Q22",
+          "seconds": 242.704,
+          "startSection": 15,
+          "endSection": 15,
+          "sha256": "c9e05ab7e16ea00678629ab36500dd72e03a88e4fbbfd9a2e81db829f7dd0e09"
         }
       ],
-      "complete": false,
-      "durationSeconds": 2194.061959
+      "complete": true,
+      "durationSeconds": 2708.797292
     },
     {
       "number": 3,
@@ -169,5 +193,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:09:01Z"
+  "updatedAt": "2026-11-25T17:10:51Z"
 }
