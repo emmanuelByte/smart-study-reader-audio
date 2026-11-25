@@ -30,7 +30,7 @@
       "number": 2,
       "title": "IT Strategy and Business Alignment",
       "totalSections": 15,
-      "readySections": 1,
+      "readySections": 3,
       "tracks": [
         {
           "file": "mit-8101-s02-s001.mp3",
@@ -39,10 +39,26 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "a3473c07388d6b26aa1f730f7d867a7e354d2f9862e59df192194aaa2a9d4c8f"
+        },
+        {
+          "file": "mit-8101-s02-s002.mp3",
+          "title": "1. What is IT strategy?",
+          "seconds": 160.332667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "e068f7a65098837131456dcbe77f3d32bfbd9d3cea8419b6951f0e3da94a4c3f"
+        },
+        {
+          "file": "mit-8101-s02-s003.mp3",
+          "title": "Budgeting and ROI",
+          "seconds": 280.046667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "7461e8cc0c6c59646d290f110320a4a9f0d75f693b8cd296df2bdfdca0761253"
         }
       ],
       "complete": false,
-      "durationSeconds": 62.473958
+      "durationSeconds": 502.853292
     },
     {
       "number": 3,
@@ -81,5 +97,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:02:40Z"
+  "updatedAt": "2026-11-25T17:03:39Z"
 }
