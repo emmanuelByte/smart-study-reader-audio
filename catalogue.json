@@ -534,7 +534,7 @@
       "number": 6,
       "title": "Emerging Trends and Financial Management in IT",
       "totalSections": 13,
-      "readySections": 9,
+      "readySections": 12,
       "tracks": [
         {
           "file": "mit-8101-s06-s001.mp3",
@@ -607,11 +607,35 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "ba80a4030fa471560751f07e060fb445f50a8237ee2504199caee077f50b8972"
+        },
+        {
+          "file": "mit-8101-s06-s010.mp3",
+          "title": "10. EcoTrans case study",
+          "seconds": 175.26,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "c8d9fc881c9af23eea2c5c0d9c92b02c26df93d5b4366ce60882f6b2c21a06d0"
+        },
+        {
+          "file": "mit-8101-s06-s011.mp3",
+          "title": "11. Practical lab: cloud FinOps",
+          "seconds": 227.060667,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "e24109bf6f2339469fd9d4659d89cf5db00f7452d29be8b6a1b7995b0d5e6487"
+        },
+        {
+          "file": "mit-8101-s06-s012.mp3",
+          "title": "12. Consolidation",
+          "seconds": 72.862667,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "efd6615156c4b248818d5f306b41e0429e055f4d72b969881acc9e13277ea887"
         }
       ],
       "complete": false,
-      "durationSeconds": 1549.521333
+      "durationSeconds": 2024.704667
     }
   ],
-  "updatedAt": "2026-11-25T17:46:18Z"
+  "updatedAt": "2026-11-25T17:48:42Z"
 }
