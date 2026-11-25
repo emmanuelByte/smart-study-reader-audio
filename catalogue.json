@@ -160,7 +160,7 @@
       "number": 3,
       "title": "IT Governance, Compliance and Risk Management",
       "totalSections": 15,
-      "readySections": 3,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8101-s03-s001.mp3",
@@ -185,10 +185,34 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "317376ff855bec0926bf95f51bd974202173443c9b6d49622aad3b41fd56ec40"
+        },
+        {
+          "file": "mit-8101-s03-s004.mp3",
+          "title": "3. ITIL and service management",
+          "seconds": 160.140667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "89651b6455f17118d27a7be88eaa6627c7356e9c53768dd29fdc7fc1c56b785f"
+        },
+        {
+          "file": "mit-8101-s03-s005.mp3",
+          "title": "4. ISO standards and framework selection",
+          "seconds": 176.54,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "12aadae925e3901a7eb68d175287aec81c3ef68031d6e1b05c7c5817d5d3c311"
+        },
+        {
+          "file": "mit-8101-s03-s006.mp3",
+          "title": "5. Compliance and data protection",
+          "seconds": 213.306667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "a67603dae68aa2c53cc54886ab551ddd9e74256d8d2f4db9c7f920da2ad377d9"
         }
       ],
       "complete": false,
-      "durationSeconds": 308.319334
+      "durationSeconds": 858.3066680000001
     },
     {
       "number": 4,
@@ -218,5 +242,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:12:13Z"
+  "updatedAt": "2026-11-25T17:13:58Z"
 }
