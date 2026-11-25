@@ -420,7 +420,7 @@
       "number": 5,
       "title": "Performance, Continuity and Resilience in IT",
       "totalSections": 13,
-      "readySections": 12,
+      "readySections": 13,
       "tracks": [
         {
           "file": "mit-8101-s05-s001.mp3",
@@ -517,10 +517,18 @@
           "startSection": 12,
           "endSection": 12,
           "sha256": "8259e0a2d32a1e59c7563f9c1ee32e35ad31b405acdb6aba7fce53c261933e22"
+        },
+        {
+          "file": "mit-8101-s05-s013.mp3",
+          "title": "CA Q29",
+          "seconds": 210.71,
+          "startSection": 13,
+          "endSection": 13,
+          "sha256": "7ffc57470c1d67962f3f921e73d74d64e88a61a11ffe58e4689820246900ddad"
         }
       ],
-      "complete": false,
-      "durationSeconds": 2139.979292
+      "complete": true,
+      "durationSeconds": 2350.689292
     },
     {
       "number": 6,
@@ -532,5 +540,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:40:18Z"
+  "updatedAt": "2026-11-25T17:41:14Z"
 }
