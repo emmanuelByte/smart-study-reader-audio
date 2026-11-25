@@ -534,7 +534,7 @@
       "number": 6,
       "title": "Emerging Trends and Financial Management in IT",
       "totalSections": 13,
-      "readySections": 1,
+      "readySections": 3,
       "tracks": [
         {
           "file": "mit-8101-s06-s001.mp3",
@@ -543,11 +543,27 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "d6dc0f3fcc8d80d53a463a011c8a719f7a069f8228267cd8e628506befe8b6f6"
+        },
+        {
+          "file": "mit-8101-s06-s002.mp3",
+          "title": "2. Digital transformation",
+          "seconds": 267.743333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "516054a02398fd471212fdf9e14328ddb5ad493ff5331b8f7b5a528793154258"
+        },
+        {
+          "file": "mit-8101-s06-s003.mp3",
+          "title": "3. Transformation readiness and implementation",
+          "seconds": 121.96,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "c85a5ccd28b235601a768d04506237af783f176a05293f26ed4676d0646bc874"
         }
       ],
       "complete": false,
-      "durationSeconds": 62.26
+      "durationSeconds": 451.963333
     }
   ],
-  "updatedAt": "2026-11-25T17:41:42Z"
+  "updatedAt": "2026-11-25T17:42:49Z"
 }
