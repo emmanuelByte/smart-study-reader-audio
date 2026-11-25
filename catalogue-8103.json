@@ -189,7 +189,7 @@
       "title": "Big Data and Cloud Database Systems",
       "sourceSha256": "956cd339df44bba042c937b9e75eb106caf1005381ac1a46f62aa486e17595ae",
       "totalSections": 9,
-      "readySections": 6,
+      "readySections": 9,
       "tracks": [
         {
           "file": "mit-8103-s03-s001.mp3",
@@ -238,20 +238,61 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "22e65aef8d17847c3231e8cdfdea7eb96f561098a12d99bef145fb0d90b526b3"
+        },
+        {
+          "file": "mit-8103-s03-s007.mp3",
+          "title": "Further platform and analytics revision",
+          "seconds": 94.105958,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "9588f4d7660e826a31016438c9bf3392a7bc3a18f335c1eab7cfb8770fb0ab2c"
+        },
+        {
+          "file": "mit-8103-s03-s008.mp3",
+          "title": "Model essay answer: design an event-driven cloud data platform",
+          "seconds": 255.818,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "dc53a7c5e1df748815886789c03fb0a075b0229779537586ce110101144ac0d9"
+        },
+        {
+          "file": "mit-8103-s03-s009.mp3",
+          "title": "Pre-test Q2",
+          "seconds": 117.053333,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "bc1697fd02e57b8e491ff6b778b46e07553bfa7239ccc119690bc5efbb2bfb3c"
         }
       ],
-      "complete": false,
-      "durationSeconds": 1487.677
+      "complete": true,
+      "durationSeconds": 1954.654
     },
     {
       "number": 4,
       "title": "Query Optimisation and File Organisation",
       "sourceSha256": "d65e8c0ab12d92f56db54724f0be14a97a74654fd8e9ee54bfea453e74c44956",
       "totalSections": 10,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 2,
+      "tracks": [
+        {
+          "file": "mit-8103-s04-s001.mp3",
+          "title": "1. Query fundamentals",
+          "seconds": 221.050667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "da6e930c67a1e7adf4dc74587c7ee2132dd8344cf49cbfa16d03b7e9c97d5bba"
+        },
+        {
+          "file": "mit-8103-s04-s002.mp3",
+          "title": "Worked cost estimation",
+          "seconds": 309.203333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "31b20ff1c780c4384c135cbde588104bdabfb8de9a41b30fb31d80e24c3700bf"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 530.254
     },
     {
       "number": 5,
@@ -274,5 +315,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T22:09:05Z"
+  "updatedAt": "2026-11-25T22:16:06Z"
 }
