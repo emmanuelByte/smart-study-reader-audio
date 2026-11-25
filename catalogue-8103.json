@@ -446,7 +446,7 @@
       "title": "Database Integration, Data Security and Data Privacy",
       "sourceSha256": "87aec01d20aa72f6767440da78ec4254b390985058e61bc8da3c6845f5a1a483",
       "totalSections": 9,
-      "readySections": 3,
+      "readySections": 8,
       "tracks": [
         {
           "file": "mit-8103-s06-s001.mp3",
@@ -471,11 +471,51 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "3ed880f9d366ee8e23e4d13ff247a13ef0fa97dabb1083aa9b493a1dc029923f"
+        },
+        {
+          "file": "mit-8103-s06-s004.mp3",
+          "title": "4. Privacy in cloud and distributed environments",
+          "seconds": 223.525333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "a38475bc2775b4e83c0f02a12c857dc88c847383637810876804dd595810ef7c"
+        },
+        {
+          "file": "mit-8103-s06-s005.mp3",
+          "title": "5. VitalNet security and privacy hardening lab",
+          "seconds": 325.858667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "8f330c2c26f1e1fb55fbb49b30ffd5ab620e0a1d79e1ec1d4bef9dce13a5ef1e"
+        },
+        {
+          "file": "mit-8103-s06-s006.mp3",
+          "title": "Additional privacy revision and operational challenges",
+          "seconds": 235.258667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "076ca9ecae131027e78e11082ce568bca4c18889c75c7e34fe161341628d11c7"
+        },
+        {
+          "file": "mit-8103-s06-s007.mp3",
+          "title": "Supplementary financial and resource context",
+          "seconds": 263.556,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "7bc2e483cb2d240b346b3c81d0e434371539eaf1ae8d0245fd6afc1555abfce4"
+        },
+        {
+          "file": "mit-8103-s06-s008.mp3",
+          "title": "Model essay answer: privacy by design under the NDPA",
+          "seconds": 234.384,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "054fe5d5d7539c38880a0fc68eb768a5ca99c141432ceabb437cd992f622b695"
         }
       ],
       "complete": false,
-      "durationSeconds": 772.719
+      "durationSeconds": 2055.301
     }
   ],
-  "updatedAt": "2026-11-25T22:47:52Z"
+  "updatedAt": "2026-11-25T22:54:47Z"
 }
