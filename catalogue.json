@@ -30,7 +30,7 @@
       "number": 2,
       "title": "IT Strategy and Business Alignment",
       "totalSections": 15,
-      "readySections": 3,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8101-s02-s001.mp3",
@@ -55,10 +55,34 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "7461e8cc0c6c59646d290f110320a4a9f0d75f693b8cd296df2bdfdca0761253"
+        },
+        {
+          "file": "mit-8101-s02-s004.mp3",
+          "title": "Budgeting and ROI",
+          "seconds": 63.262667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "4f7f562af539c02b3a835dfe681d04db3fba5f75c3ba5eefb38014044edfd6d2"
+        },
+        {
+          "file": "mit-8101-s02-s005.mp3",
+          "title": "McFarlan's Strategic Grid",
+          "seconds": 236.368,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "767a471c97a0c114180297b6a9b8fabb8af74431d6b50c106f17dfe73cc9a97d"
+        },
+        {
+          "file": "mit-8101-s02-s006.mp3",
+          "title": "4. Developing and implementing the strategy",
+          "seconds": 178.673333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "9b6bd27ec9254fe4c9e2ebea98ffd6ff133bf937066938eaa0b6eb2135cd4b24"
         }
       ],
       "complete": false,
-      "durationSeconds": 502.853292
+      "durationSeconds": 981.157292
     },
     {
       "number": 3,
@@ -97,5 +121,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:03:39Z"
+  "updatedAt": "2026-11-25T17:05:01Z"
 }
