@@ -189,7 +189,7 @@
       "title": "Big Data and Cloud Database Systems",
       "sourceSha256": "956cd339df44bba042c937b9e75eb106caf1005381ac1a46f62aa486e17595ae",
       "totalSections": 9,
-      "readySections": 1,
+      "readySections": 6,
       "tracks": [
         {
           "file": "mit-8103-s03-s001.mp3",
@@ -198,10 +198,50 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "efb33ce218a0d5f50827d2bad71a4f6810d6a77a8b078df614fd477be93f2209"
+        },
+        {
+          "file": "mit-8103-s03-s002.mp3",
+          "title": "Worked ingestion sizing",
+          "seconds": 303.592667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "d8be3ff81ac77c569409e9734e9b4f7f11dfdfcd1cb4e64ef5c13f1cbdcfd5a0"
+        },
+        {
+          "file": "mit-8103-s03-s003.mp3",
+          "title": "3. Cloud databases",
+          "seconds": 249.802,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "93d89d6c5f43d572d3b80d22cbeb6f9d1dccb309a4f058dec5a7b2e52773f583"
+        },
+        {
+          "file": "mit-8103-s03-s004.mp3",
+          "title": "4. Warehouses, lakes and modern data platforms",
+          "seconds": 224.293333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "2b88f2053c5ccecc73b8551b4ad4048ab32bc3337d61ee58f3757f040a4e372d"
+        },
+        {
+          "file": "mit-8103-s03-s005.mp3",
+          "title": "5. Database security",
+          "seconds": 252.996,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "bd95542bf0921c9c6a800ce2d454d1a9ebd81a7d994054a8b19f56778b02a588"
+        },
+        {
+          "file": "mit-8103-s03-s006.mp3",
+          "title": "Further platform and analytics revision",
+          "seconds": 277.230667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "22e65aef8d17847c3231e8cdfdea7eb96f561098a12d99bef145fb0d90b526b3"
         }
       ],
       "complete": false,
-      "durationSeconds": 179.762
+      "durationSeconds": 1487.677
     },
     {
       "number": 4,
@@ -234,5 +274,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T22:01:58Z"
+  "updatedAt": "2026-11-25T22:09:05Z"
 }
