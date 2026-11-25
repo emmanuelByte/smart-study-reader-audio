@@ -272,7 +272,7 @@
       "title": "Query Optimisation and File Organisation",
       "sourceSha256": "d65e8c0ab12d92f56db54724f0be14a97a74654fd8e9ee54bfea453e74c44956",
       "totalSections": 10,
-      "readySections": 2,
+      "readySections": 7,
       "tracks": [
         {
           "file": "mit-8103-s04-s001.mp3",
@@ -289,10 +289,50 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "31b20ff1c780c4384c135cbde588104bdabfb8de9a41b30fb31d80e24c3700bf"
+        },
+        {
+          "file": "mit-8103-s04-s003.mp3",
+          "title": "Worked cost estimation",
+          "seconds": 218.661333,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "1626acdfb32cd8f8f7dacde85aa3d24a14a03f5e6efb7a18ccfd9f548df60232"
+        },
+        {
+          "file": "mit-8103-s04-s004.mp3",
+          "title": "3. Reading execution plans and benchmarking",
+          "seconds": 274.350667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "e12897996cecc60a2e17028e78557af3f867e82801e6ca248692956e42c38937"
+        },
+        {
+          "file": "mit-8103-s04-s005.mp3",
+          "title": "4. File organisation",
+          "seconds": 257.524667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "b30a1028918cdde12ddd83b5b4b3cb5102a2152965849374999fd5c3dde6ea3f"
+        },
+        {
+          "file": "mit-8103-s04-s006.mp3",
+          "title": "5. Indexing",
+          "seconds": 291.353333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "7aa035d6bbf8a23ed4c4f0251a6f1cd757076504ce2e94f04374e9aca779acab"
+        },
+        {
+          "file": "mit-8103-s04-s007.mp3",
+          "title": "6. Caching and materialised views",
+          "seconds": 255.562,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "1a1febf22fcedfe932df1eefced969a8e548ca2d786f9335aa09b4a553d995b9"
         }
       ],
       "complete": false,
-      "durationSeconds": 530.254
+      "durationSeconds": 1827.706
     },
     {
       "number": 5,
@@ -315,5 +355,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T22:16:06Z"
+  "updatedAt": "2026-11-25T22:25:00Z"
 }
