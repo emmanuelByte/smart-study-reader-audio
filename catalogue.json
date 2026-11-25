@@ -30,10 +30,19 @@
       "number": 2,
       "title": "IT Strategy and Business Alignment",
       "totalSections": 15,
-      "readySections": 0,
-      "tracks": [],
+      "readySections": 1,
+      "tracks": [
+        {
+          "file": "mit-8101-s02-s001.mp3",
+          "title": "Learning outcomes",
+          "seconds": 62.473958,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "a3473c07388d6b26aa1f730f7d867a7e354d2f9862e59df192194aaa2a9d4c8f"
+        }
+      ],
       "complete": false,
-      "durationSeconds": 0
+      "durationSeconds": 62.473958
     },
     {
       "number": 3,
@@ -72,5 +81,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-25T17:02:20Z"
+  "updatedAt": "2026-11-25T17:02:40Z"
 }
