@@ -100,8 +100,8 @@
       "title": "Intellectual Property in Information Technology",
       "sourceSha256": "dddfe1a240cc7648427665de632102198906d041728ab2f08f4498f1aad21be7",
       "totalSections": 12,
-      "readySections": 11,
-      "complete": false,
+      "readySections": 12,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -191,9 +191,17 @@
           "startSection": 11,
           "endSection": 11,
           "sha256": "7c98a2de895656a474f44f77b893246e5c1a84fa4a86a67055a8cff3899088d8"
+        },
+        {
+          "file": "mit-8111-s02-s012.mp3",
+          "title": "11. Worked case-analysis example: software reuse and ethical ownership",
+          "seconds": 312.894,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "466295c8348e0464e97aa8e4c63ea54ec32563c020f7ffb4e5c0e8d11fae7a26"
         }
       ],
-      "durationSeconds": 3364.467
+      "durationSeconds": 3677.361
     },
     {
       "number": 3,
@@ -240,5 +248,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:46:19Z"
+  "updatedAt": "2026-11-26T16:47:32Z"
 }
