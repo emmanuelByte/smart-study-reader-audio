@@ -100,7 +100,7 @@
       "title": "Intellectual Property in Information Technology",
       "sourceSha256": "dddfe1a240cc7648427665de632102198906d041728ab2f08f4498f1aad21be7",
       "totalSections": 12,
-      "readySections": 2,
+      "readySections": 5,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -119,9 +119,33 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "26288f53c044f0cdf6a46176ccc58fe00f603faed85c9a1ec221c2448eb8b0f3"
+        },
+        {
+          "file": "mit-8111-s02-s003.mp3",
+          "title": "3. Copyright, ownership and licensing",
+          "seconds": 295.998,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "5f080126f4de33205c5e1877fb367ee3ce74aff60102322fe30eb0e990bd41d5"
+        },
+        {
+          "file": "mit-8111-s02-s004.mp3",
+          "title": "4. Patents and trade secrets",
+          "seconds": 308.478,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "ae8fffde2b5d06b21ff34fc5a5288801a0e742cd774fc1b95e61779ee57be389"
+        },
+        {
+          "file": "mit-8111-s02-s005.mp3",
+          "title": "5. Trademark and brand management",
+          "seconds": 290.75,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "99a2df231ba614e97def4209205630d5be21ecdaa195d012d9f13de2fca506c1"
         }
       ],
-      "durationSeconds": 718.686
+      "durationSeconds": 1613.912
     },
     {
       "number": 3,
@@ -168,5 +192,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:34:20Z"
+  "updatedAt": "2026-11-26T16:37:01Z"
 }
