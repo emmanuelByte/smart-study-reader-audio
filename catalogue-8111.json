@@ -484,8 +484,8 @@
       "title": "Ethical Dilemmas in Emerging Technologies and Case Studies",
       "sourceSha256": "40aae24bb7558ad1dd33520fd2ddbb79b0987710e2f651a870e3aaf9e054ac1c",
       "totalSections": 12,
-      "readySections": 11,
-      "complete": false,
+      "readySections": 12,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -575,10 +575,18 @@
           "startSection": 11,
           "endSection": 11,
           "sha256": "6f231961da0b6f13666920d68c0dd12655bc8006af9244d26f0dd930fa3fba1b"
+        },
+        {
+          "file": "mit-8111-s06-s012.mp3",
+          "title": "12. Worked independent case-analysis example",
+          "seconds": 272.174667,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "a90f98984624d96b85b7d2cf61f33a50eab496173c45bac6318450cba79debe8"
         }
       ],
-      "durationSeconds": 3572.691
+      "durationSeconds": 3844.865
     }
   ],
-  "updatedAt": "2026-11-26T17:33:55Z"
+  "updatedAt": "2026-11-26T17:35:04Z"
 }
