@@ -484,7 +484,7 @@
       "title": "Ethical Dilemmas in Emerging Technologies and Case Studies",
       "sourceSha256": "40aae24bb7558ad1dd33520fd2ddbb79b0987710e2f651a870e3aaf9e054ac1c",
       "totalSections": 12,
-      "readySections": 2,
+      "readySections": 5,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -503,10 +503,34 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "a0825191e751978aa1bc515c128ab04ec9750f6208e4b74fd100c59373c2df3e"
+        },
+        {
+          "file": "mit-8111-s06-s003.mp3",
+          "title": "3. IoT privacy, ownership and smart cities",
+          "seconds": 355.82,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "afdd98c3a85d0f97d71b61cadd83144d91ee8405c2a6c251ba8d74667736b11b"
+        },
+        {
+          "file": "mit-8111-s06-s004.mp3",
+          "title": "4. Automation, employment and accessibility",
+          "seconds": 278.446667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "084a6021846c4b08e7280b4d5fdf831e7a4b9416107570d201035b9731aed842"
+        },
+        {
+          "file": "mit-8111-s06-s005.mp3",
+          "title": "5. Ethical theories",
+          "seconds": 274.222667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "0a106d173259fad3a26589f94080e5a82b56554124fae82439f3b20290d61407"
         }
       ],
-      "durationSeconds": 709.092
+      "durationSeconds": 1617.581
     }
   ],
-  "updatedAt": "2026-11-26T17:25:19Z"
+  "updatedAt": "2026-11-26T17:28:02Z"
 }
