@@ -208,11 +208,28 @@
       "title": "Ethics in Software Development and Data Ownership",
       "sourceSha256": "75f59ebc56bdf89b963e76ac0cefb459491e5f58429d16fd4fa57bb042b9437f",
       "totalSections": 10,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8111-s03-s001.mp3",
+          "title": "1. Ethical foundations in software",
+          "seconds": 257.311333,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "3c047c8d531b6507510999a038b09b9fb62c578263c5efe46c2647a9a9b526a3"
+        },
+        {
+          "file": "mit-8111-s03-s002.mp3",
+          "title": "2. Professional standards and Nigerian context",
+          "seconds": 275.481333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "c364a05a1687b5af4372518dcc338bd3a7cf2a6ac4d7575478005e0e4811b25a"
+        }
+      ],
+      "durationSeconds": 532.793
     },
     {
       "number": 4,
@@ -248,5 +265,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:47:32Z"
+  "updatedAt": "2026-11-26T16:49:18Z"
 }
