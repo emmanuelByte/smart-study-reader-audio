@@ -484,7 +484,7 @@
       "title": "Ethical Dilemmas in Emerging Technologies and Case Studies",
       "sourceSha256": "40aae24bb7558ad1dd33520fd2ddbb79b0987710e2f651a870e3aaf9e054ac1c",
       "totalSections": 12,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -527,10 +527,34 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "0a106d173259fad3a26589f94080e5a82b56554124fae82439f3b20290d61407"
+        },
+        {
+          "file": "mit-8111-s06-s006.mp3",
+          "title": "6. Global ethical governance",
+          "seconds": 336.568,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "68e7002683d94f8440695bb8a5c65736fe26cd5e3d4a0ee93579c4f5185ea6e9"
+        },
+        {
+          "file": "mit-8111-s06-s007.mp3",
+          "title": "7. Generative AI, deepfakes and algorithmic colonialism",
+          "seconds": 457.967333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "97dbb301e0b434f76e89ab323a86a0ecd9babc38048dd02cdc1d28f76dc0e9ee"
+        },
+        {
+          "file": "mit-8111-s06-s008.mp3",
+          "title": "8. Applied healthcare, education and autonomous systems",
+          "seconds": 313.592,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "5f4364837ed6d15616292a79c7da9b0db9e9127d8ad9592a297676c79be738f1"
         }
       ],
-      "durationSeconds": 1617.581
+      "durationSeconds": 2725.709
     }
   ],
-  "updatedAt": "2026-11-26T17:28:02Z"
+  "updatedAt": "2026-11-26T17:31:19Z"
 }
