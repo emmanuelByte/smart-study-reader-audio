@@ -184,7 +184,7 @@
       "title": "Testing and Quality Assurance",
       "sourceSha256": "16aae1d478470a6f3d51ee19ad220b64ec0feff348a90a85e8bade6b874b1fa8",
       "totalSections": 10,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -227,9 +227,33 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "617fd7dd5c459dfcb514f5d84a24be8ae71ada9bfc55e17557dfc93b1fa2e5d4"
+        },
+        {
+          "file": "mit-8107-s03-s006.mp3",
+          "title": "6. Exam consolidation",
+          "seconds": 148.087333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "b52b69222e35f40682d895c768fc9437d1377c63a7350897cbdc470c77c02bec"
+        },
+        {
+          "file": "mit-8107-s03-s007.mp3",
+          "title": "Additional quality standards and independent practice",
+          "seconds": 294.867333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "b2b1d99edd4b1afcd78b64ce0a7afc46296ab49b4f16e28e301bf6fda22431e5"
+        },
+        {
+          "file": "mit-8107-s03-s008.mp3",
+          "title": "CA Q12",
+          "seconds": 461.679333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "40128bdda88df5aa2de0c77b5513571b16361dee0b2d0c223452f761e66f6856"
         }
       ],
-      "durationSeconds": 1508.732
+      "durationSeconds": 2413.366
     },
     {
       "number": 4,
@@ -265,5 +289,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:04:54Z"
+  "updatedAt": "2026-11-26T14:07:46Z"
 }
