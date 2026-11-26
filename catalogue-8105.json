@@ -192,11 +192,20 @@
       "title": "Wireless Networking, Network Security Principles and Protocols",
       "sourceSha256": "25160d191fee0d8a63a6fca755fc3ade236d62195cb3b061e771336508d17788",
       "totalSections": 8,
-      "readySections": 0,
+      "readySections": 1,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8105-s03-s001.mp3",
+          "title": "1. Wireless communication",
+          "seconds": 345.01,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "934447b0f8b7081056174f87d4c81d393673664ab960f6311090f3a42b12e6e9"
+        }
+      ],
+      "durationSeconds": 345.01
     },
     {
       "number": 4,
@@ -297,5 +306,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:13:48Z"
+  "updatedAt": "2026-11-26T09:15:13Z"
 }
