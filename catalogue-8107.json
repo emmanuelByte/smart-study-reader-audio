@@ -276,8 +276,8 @@
       "title": "Agile Frameworks, Iterative and Incremental Development",
       "sourceSha256": "c12a6ff5cad123b209555aba2e7cfc1542fa0dee4e5a1c1f3268d0b02b233c41",
       "totalSections": 9,
-      "readySections": 7,
-      "complete": false,
+      "readySections": 9,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -335,9 +335,25 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "89f8ec76f11f9627c17859795bc61701accc0c2978b74ce1ec03d8de8b72d191"
+        },
+        {
+          "file": "mit-8107-s04-s008.mp3",
+          "title": "Additional independent Agile practice",
+          "seconds": 254.175333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "154975b307e1b548664535d96564bd09e7fc7b795e11ab48eb1a85fd543a556c"
+        },
+        {
+          "file": "mit-8107-s04-s009.mp3",
+          "title": "Pre-test Q9",
+          "seconds": 169.649333,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "e83f13f291e3472c5d405b7d4954340f23e7caf0139307cfa4dd61f4b9ffe58f"
         }
       ],
-      "durationSeconds": 1520.636
+      "durationSeconds": 1944.461
     },
     {
       "number": 5,
@@ -362,5 +378,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:17:50Z"
+  "updatedAt": "2026-11-26T14:20:29Z"
 }
