@@ -92,7 +92,7 @@
       "title": "Design and Development",
       "sourceSha256": "b1f310740423d6aa05b2b513dd59e71e70a20c42641a04f5788d4986ea787167",
       "totalSections": 10,
-      "readySections": 6,
+      "readySections": 9,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -143,9 +143,33 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "47f948a1ec86405b1a76628a5413a8dd52d492f31900eda45d982a8d1b960d7e"
+        },
+        {
+          "file": "mit-8107-s02-s007.mp3",
+          "title": "Additional design patterns and engineering practice",
+          "seconds": 252.895333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "9888e27fed2e365368c305721df1aca6fc5c297769ec48a5cbdfbe79812c4c08"
+        },
+        {
+          "file": "mit-8107-s02-s008.mp3",
+          "title": "Pre-test Q5",
+          "seconds": 186.076,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "c709a6781a0bf842f08c99db7fabcedab5096214f6443c421e5c7e5307b18594"
+        },
+        {
+          "file": "mit-8107-s02-s009.mp3",
+          "title": "CA Q30",
+          "seconds": 369.074,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "c489f4b4829cfad60dc3616263d88adf9227a0cad5488c353e5208a46a42b81a"
         }
       ],
-      "durationSeconds": 1619.067
+      "durationSeconds": 2427.112
     },
     {
       "number": 3,
@@ -192,5 +216,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T13:54:08Z"
+  "updatedAt": "2026-11-26T13:56:35Z"
 }
