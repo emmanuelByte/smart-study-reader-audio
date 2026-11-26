@@ -192,7 +192,7 @@
       "title": "Wireless Networking, Network Security Principles and Protocols",
       "sourceSha256": "25160d191fee0d8a63a6fca755fc3ade236d62195cb3b061e771336508d17788",
       "totalSections": 8,
-      "readySections": 1,
+      "readySections": 4,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -203,9 +203,33 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "934447b0f8b7081056174f87d4c81d393673664ab960f6311090f3a42b12e6e9"
+        },
+        {
+          "file": "mit-8105-s03-s002.mp3",
+          "title": "2. Security principles and wireless protection",
+          "seconds": 281.198667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "911a02ec1123a2867102e043de336917729d39ed8ecbd2d13ffcb76a4b2be4b6"
+        },
+        {
+          "file": "mit-8105-s03-s003.mp3",
+          "title": "3. Cryptography, TLS, IPsec and SSH",
+          "seconds": 388.246667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "bf86e209307044850d95d0b513789194baae7ef69f5eddc68f98ed4bd1f39397"
+        },
+        {
+          "file": "mit-8105-s03-s004.mp3",
+          "title": "4. Firewalls, ACL, IDS/IPS and Zero Trust",
+          "seconds": 326.605333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "76d6deefb3bc6e4804d166b14d5359f0fcba740d329d9105b46997c06bc36b4e"
         }
       ],
-      "durationSeconds": 345.01
+      "durationSeconds": 1341.061
     },
     {
       "number": 4,
@@ -306,5 +330,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:15:13Z"
+  "updatedAt": "2026-11-26T09:17:56Z"
 }
