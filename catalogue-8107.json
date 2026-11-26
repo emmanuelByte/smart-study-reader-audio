@@ -452,12 +452,37 @@
       "title": "Project Documentation and Team Collaboration",
       "sourceSha256": "80a23120bf0ed712cd62f117b8d586ab12f79faed9b081bf544a3b2a8deed87a",
       "totalSections": 9,
-      "readySections": 0,
+      "readySections": 3,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8107-s06-s001.mp3",
+          "title": "1. Documentation throughout the SDLC",
+          "seconds": 387.564,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "6cc6adbae8377c575999af074fc5deb36807083350d1643a8464df5c5dc3a4fc"
+        },
+        {
+          "file": "mit-8107-s06-s002.mp3",
+          "title": "2. Quality attributes and auditability",
+          "seconds": 297.107333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "a13b29ae9c704b003a99dc9b641bdf32d06c25a194b746415ccaf2b4ad745616"
+        },
+        {
+          "file": "mit-8107-s06-s003.mp3",
+          "title": "3. Version control and collaboration",
+          "seconds": 299.469333,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "0a08f3ec830b7b967a3b33155c48b5b4ee29ba82862a76a5e71bc853b9aa657f"
+        }
+      ],
+      "durationSeconds": 984.141
     }
   ],
-  "updatedAt": "2026-11-26T14:33:09Z"
+  "updatedAt": "2026-11-26T14:37:41Z"
 }
