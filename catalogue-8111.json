@@ -100,11 +100,28 @@
       "title": "Intellectual Property in Information Technology",
       "sourceSha256": "dddfe1a240cc7648427665de632102198906d041728ab2f08f4498f1aad21be7",
       "totalSections": 12,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8111-s02-s001.mp3",
+          "title": "1. What intellectual property protects",
+          "seconds": 369.878667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "559dd32971c343dcc04c3fe7411550c7a2fc583a3a2b8199de0e80daad0f8ba1"
+        },
+        {
+          "file": "mit-8111-s02-s002.mp3",
+          "title": "2. National and international frameworks",
+          "seconds": 348.807333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "26288f53c044f0cdf6a46176ccc58fe00f603faed85c9a1ec221c2448eb8b0f3"
+        }
+      ],
+      "durationSeconds": 718.686
     },
     {
       "number": 3,
@@ -151,5 +168,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:31:11Z"
+  "updatedAt": "2026-11-26T16:34:20Z"
 }
