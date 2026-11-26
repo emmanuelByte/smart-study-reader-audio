@@ -276,11 +276,20 @@
       "title": "Agile Frameworks, Iterative and Incremental Development",
       "sourceSha256": "c12a6ff5cad123b209555aba2e7cfc1542fa0dee4e5a1c1f3268d0b02b233c41",
       "totalSections": 9,
-      "readySections": 0,
+      "readySections": 1,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8107-s04-s001.mp3",
+          "title": "1. Agile principles",
+          "seconds": 291.374667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "4adf5b6494c97ee1468fe3752e5c94d5d5ff89165053775a84c51e188831fb80"
+        }
+      ],
+      "durationSeconds": 291.375
     },
     {
       "number": 5,
@@ -305,5 +314,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:12:03Z"
+  "updatedAt": "2026-11-26T14:13:58Z"
 }
