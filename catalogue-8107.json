@@ -8,8 +8,8 @@
       "title": "Introduction to SDLC and Planning",
       "sourceSha256": "ed526afb5a0d7bebab843b053425550432915510eb43e11b6649129c1a388778",
       "totalSections": 9,
-      "readySections": 6,
-      "complete": false,
+      "readySections": 9,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -59,9 +59,33 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "aa341c8554edcea9fc8729a2e84f05ded6c10b540053b7a2a940abc4d71dc394"
+        },
+        {
+          "file": "mit-8107-s01-s007.mp3",
+          "title": "Pre-test Q4",
+          "seconds": 132.620667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "762be7597ba8df6b3e1615c8a01786050b27e4d9a9f7509c28fe46433379b597"
+        },
+        {
+          "file": "mit-8107-s01-s008.mp3",
+          "title": "CA Q29",
+          "seconds": 399.782,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "db3431183d7347c886d6c92d86c55d997065ce8fa80d4751d2cdcf8c748918db"
+        },
+        {
+          "file": "mit-8107-s01-s009.mp3",
+          "title": "CA Q35",
+          "seconds": 180.422667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "64b5b802e7090eccc4fe604f0cd899fc635dc37da458e1f374f5d1fea181b0c4"
         }
       ],
-      "durationSeconds": 1756.608
+      "durationSeconds": 2469.433
     },
     {
       "number": 2,
@@ -119,5 +143,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T13:43:53Z"
+  "updatedAt": "2026-11-26T13:46:06Z"
 }
