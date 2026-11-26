@@ -392,7 +392,7 @@
       "title": "Cybersecurity Ethics and Compliance in IT",
       "sourceSha256": "c86e671fa13c30ad646d5b05c0e9674886dea85db42dfe4ca44f968d2d82d6f0",
       "totalSections": 10,
-      "readySections": 3,
+      "readySections": 6,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -419,9 +419,33 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "827daafa0f8721404d21e5748077a2426d05e66a09734c244da12e6b7356d059"
+        },
+        {
+          "file": "mit-8111-s05-s004.mp3",
+          "title": "4. Risk management",
+          "seconds": 227.792,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "affb1fa31d03f7f553ada589bea1e3a5256a961c7a4dedf154e3293401a1e150"
+        },
+        {
+          "file": "mit-8111-s05-s005.mp3",
+          "title": "5. Designing compliant infrastructure",
+          "seconds": 351.132667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "09c1dfe09e8e5e26ee8735dc7b1a7e59cd5f6a4795a5b0ccfd71d7430e030c0c"
+        },
+        {
+          "file": "mit-8111-s05-s006.mp3",
+          "title": "6. Incident response and disclosure ethics",
+          "seconds": 289.363333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "83cf1174354843e290db3be48df83f81ebc0d3af9cbc840019e32a9a811732e6"
         }
       ],
-      "durationSeconds": 924.943
+      "durationSeconds": 1793.231
     },
     {
       "number": 6,
@@ -435,5 +459,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T17:16:39Z"
+  "updatedAt": "2026-11-26T17:19:22Z"
 }
