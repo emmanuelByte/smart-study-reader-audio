@@ -268,7 +268,7 @@
       "title": "Network Performance Monitoring and Optimisation",
       "sourceSha256": "6ca4e99e2b3d372141180b6f2e9c956115810c7a24921227905cd660e0372dd5",
       "totalSections": 7,
-      "readySections": 2,
+      "readySections": 5,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -287,9 +287,33 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "8b9131ac6885d4d7a8ee0da816c47f7724a9551736efe6123aa097d8824d0eac"
+        },
+        {
+          "file": "mit-8105-s04-s003.mp3",
+          "title": "3. Metrics and calculations",
+          "seconds": 296.488667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "73f67bc0615c5111000859864a9656b5520a2abb97f004c98a3b3574931aa3c1"
+        },
+        {
+          "file": "mit-8105-s04-s004.mp3",
+          "title": "4. QoS mechanisms and models",
+          "seconds": 361.436667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "6094555fc9ae839996ba425d0ce2feb4a8474d53d460b1369d32583d2e25f316"
+        },
+        {
+          "file": "mit-8105-s04-s005.mp3",
+          "title": "5. Practical validation lab and essay",
+          "seconds": 322.957333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "c72e7869b29edca509a1dd9deef836ceb92cd9690c8ceab9878eaf4c60e2f9c6"
         }
       ],
-      "durationSeconds": 586.285
+      "durationSeconds": 1567.167
     },
     {
       "number": 5,
@@ -379,5 +403,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:24:50Z"
+  "updatedAt": "2026-11-26T09:27:23Z"
 }
