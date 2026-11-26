@@ -392,7 +392,7 @@
       "title": "Cybersecurity Ethics and Compliance in IT",
       "sourceSha256": "c86e671fa13c30ad646d5b05c0e9674886dea85db42dfe4ca44f968d2d82d6f0",
       "totalSections": 10,
-      "readySections": 6,
+      "readySections": 9,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -443,9 +443,33 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "83cf1174354843e290db3be48df83f81ebc0d3af9cbc840019e32a9a811732e6"
+        },
+        {
+          "file": "mit-8111-s05-s007.mp3",
+          "title": "7. Case studies",
+          "seconds": 411.04,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "b79879c2e637b3e749481123f9305a223651fa47867b14f3de70331d060871de"
+        },
+        {
+          "file": "mit-8111-s05-s008.mp3",
+          "title": "8. Worked archived CA questions",
+          "seconds": 204.992667,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "5501feeed818797f823a6ab2de66292e5e718086d7c189c08ea4e6b075ad61da"
+        },
+        {
+          "file": "mit-8111-s05-s009.mp3",
+          "title": "9. Independent case-analysis practice",
+          "seconds": 290.75,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "c47cd3edb6bb6ef8e698825467cc3172b1c74ac0cbd1825914f178ae2b30910e"
         }
       ],
-      "durationSeconds": 1793.231
+      "durationSeconds": 2700.014
     },
     {
       "number": 6,
@@ -459,5 +483,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T17:19:22Z"
+  "updatedAt": "2026-11-26T17:22:07Z"
 }
