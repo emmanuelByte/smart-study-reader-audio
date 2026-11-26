@@ -360,8 +360,8 @@
       "title": "CI/CD, DevOps and Release Management",
       "sourceSha256": "d4789bd5627b8d52fedc32d6728a5eec596d5f864d7189941fd93802375290d2",
       "totalSections": 10,
-      "readySections": 7,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -419,9 +419,33 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "04ae3e900958a2a9e6754a8c23887a852fd19c2ec8af9e9b9bcd0d62baa61eef"
+        },
+        {
+          "file": "mit-8107-s05-s008.mp3",
+          "title": "Additional release-risk practice",
+          "seconds": 236.938,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "fd33ec24c5de54737b772ca3982b4d374c286d9b8e27a2f3aa12d2f16bd642d8"
+        },
+        {
+          "file": "mit-8107-s05-s009.mp3",
+          "title": "Pre-test Q10",
+          "seconds": 189.59,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "6e0b3c8b19356fe637856f9cf0b5db9252dd33546c35aab6cde3c071960de5b8"
+        },
+        {
+          "file": "mit-8107-s05-s010.mp3",
+          "title": "CA Q40",
+          "seconds": 376.812,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "9a76d797aeb3774876fbd07607fb8327d4b2025ad5ffeed5d21543366fe9be4b"
         }
       ],
-      "durationSeconds": 1869.949
+      "durationSeconds": 2673.289
     },
     {
       "number": 6,
@@ -435,5 +459,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:29:08Z"
+  "updatedAt": "2026-11-26T14:32:44Z"
 }
