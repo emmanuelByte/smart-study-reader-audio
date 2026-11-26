@@ -392,8 +392,8 @@
       "title": "Cybersecurity Ethics and Compliance in IT",
       "sourceSha256": "c86e671fa13c30ad646d5b05c0e9674886dea85db42dfe4ca44f968d2d82d6f0",
       "totalSections": 10,
-      "readySections": 9,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -467,9 +467,17 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "c47cd3edb6bb6ef8e698825467cc3172b1c74ac0cbd1825914f178ae2b30910e"
+        },
+        {
+          "file": "mit-8111-s05-s010.mp3",
+          "title": "10. Worked case-analysis example: infrastructure assurance",
+          "seconds": 247.818,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "9b30185f41a1f96355634efb5e84a95cf932a5e87fe294c26477866b3ba2929d"
         }
       ],
-      "durationSeconds": 2700.014
+      "durationSeconds": 2947.832
     },
     {
       "number": 6,
@@ -483,5 +491,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T17:22:07Z"
+  "updatedAt": "2026-11-26T17:23:08Z"
 }
