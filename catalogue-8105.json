@@ -268,11 +268,28 @@
       "title": "Network Performance Monitoring and Optimisation",
       "sourceSha256": "6ca4e99e2b3d372141180b6f2e9c956115810c7a24921227905cd660e0372dd5",
       "totalSections": 7,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8105-s04-s001.mp3",
+          "title": "1. Monitoring purpose and architecture",
+          "seconds": 278.894667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "54d7426960ba5b7d4d22366cd08c58418c5e13988536a0aa7c853e45cc01158d"
+        },
+        {
+          "file": "mit-8105-s04-s002.mp3",
+          "title": "2. SNMP, Wireshark, NetFlow",
+          "seconds": 307.39,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "8b9131ac6885d4d7a8ee0da816c47f7724a9551736efe6123aa097d8824d0eac"
+        }
+      ],
+      "durationSeconds": 586.285
     },
     {
       "number": 5,
@@ -362,5 +379,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:22:16Z"
+  "updatedAt": "2026-11-26T09:24:50Z"
 }
