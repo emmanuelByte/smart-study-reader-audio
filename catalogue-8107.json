@@ -360,7 +360,7 @@
       "title": "CI/CD, DevOps and Release Management",
       "sourceSha256": "d4789bd5627b8d52fedc32d6728a5eec596d5f864d7189941fd93802375290d2",
       "totalSections": 10,
-      "readySections": 1,
+      "readySections": 4,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -371,9 +371,33 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "1178dd44992c9b021e137de8fd03bd8e749258fadd23a59118b84082e2ad7fc4"
+        },
+        {
+          "file": "mit-8107-s05-s002.mp3",
+          "title": "2. Node.js pipeline example",
+          "seconds": 232.784,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "bf0528573c840ff823bca2dd48f42281988a2db406b64cf6379f32646729f9de"
+        },
+        {
+          "file": "mit-8107-s05-s003.mp3",
+          "title": "3. Release planning and dependencies",
+          "seconds": 252.746,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "2259b1731222af086241aaa66818334b7e7844fa425464d301afe8caece5b888"
+        },
+        {
+          "file": "mit-8107-s05-s004.mp3",
+          "title": "4. Deployment strategies and recovery",
+          "seconds": 318.861333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "c38b7309805c96a154d22a2c5e38c1ea1e0b9e18a67a9afdea3435bfa6f101fe"
         }
       ],
-      "durationSeconds": 347.869
+      "durationSeconds": 1152.26
     },
     {
       "number": 6,
@@ -387,5 +411,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:22:55Z"
+  "updatedAt": "2026-11-26T14:26:54Z"
 }
