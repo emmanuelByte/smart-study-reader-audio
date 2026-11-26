@@ -8,7 +8,7 @@
       "title": "Foundations of Network Architectures and Design Principles",
       "sourceSha256": "ac107fa1a53c4f88748527b379a9e70008a0f09f956e39d41de5749b7c22f2c2",
       "totalSections": 8,
-      "readySections": 3,
+      "readySections": 6,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -35,9 +35,33 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "ea5995b4b388484d69efadb34085d8bdc7275799e32726cf34218603ecaa25aa"
+        },
+        {
+          "file": "mit-8105-s01-s004.mp3",
+          "title": "4. Requirement-based design",
+          "seconds": 289.342,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "f4c16d3d94e5e86a9a2f1caddef3e15dd51ec4c6486fc585e3b90f5540fc3c02"
+        },
+        {
+          "file": "mit-8105-s01-s005.mp3",
+          "title": "5. Practical design lab and troubleshooting",
+          "seconds": 295.720667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "b133caf4659726abb0f81cd8683a49feacf7d6af940b6639baeade6451b9cf94"
+        },
+        {
+          "file": "mit-8105-s01-s006.mp3",
+          "title": "6. Model essay",
+          "seconds": 229.861333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "09696af29780f2ca3e9662bbbf0e3bb1965a6be58b5177c03c4142414cc1bc6f"
         }
       ],
-      "durationSeconds": 902.869
+      "durationSeconds": 1717.793
     },
     {
       "number": 2,
@@ -257,5 +281,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:10:16Z"
+  "updatedAt": "2026-11-26T09:12:39Z"
 }
