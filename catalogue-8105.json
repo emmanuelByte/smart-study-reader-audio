@@ -336,8 +336,8 @@
       "title": "Software-Defined Networking (SDN)",
       "sourceSha256": "6d9dd4dfe2959e23439a9ab672deac39db6390bcb74ce6cd4f57960072cf5f4d",
       "totalSections": 9,
-      "readySections": 7,
-      "complete": false,
+      "readySections": 9,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -395,9 +395,25 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "37e2df0f26c6a3c1bdb741543b2f28f889090d9e9cfc58e5ddc0b07276fc8899"
+        },
+        {
+          "file": "mit-8105-s05-s008.mp3",
+          "title": "Additional SDN use cases and fault analysis",
+          "seconds": 318.136,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "4b907a92f095d750796d010f18b61e7ca41ace2710d306b31f2bb982a220db7f"
+        },
+        {
+          "file": "mit-8105-s05-s009.mp3",
+          "title": "Pre-test Q3",
+          "seconds": 157.580667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "4cd2257af76e81e17873a319a87ea8186b68a2392ffd9e69009ac75614e2529b"
         }
       ],
-      "durationSeconds": 1895.586
+      "durationSeconds": 2371.303
     },
     {
       "number": 6,
@@ -476,5 +492,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:37:52Z"
+  "updatedAt": "2026-11-26T09:39:22Z"
 }
