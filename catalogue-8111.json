@@ -300,7 +300,7 @@
       "title": "Social Media, Privacy and Ethical Dilemmas",
       "sourceSha256": "b933c7bfd109998343454b3ad4c065d6f5f7337a207d854aa14c0f702d21d2a9",
       "totalSections": 10,
-      "readySections": 1,
+      "readySections": 4,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -311,9 +311,33 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "853790143637d94371701967959aba07b115e6fabcf19569df5dc17307cea8bf"
+        },
+        {
+          "file": "mit-8111-s04-s002.mp3",
+          "title": "2. Data categories and collection mechanisms",
+          "seconds": 316.072667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "11f64b965f420b35e7155ffd9d3ef640e2b127599d7e6daf6dc68dcd9016a73b"
+        },
+        {
+          "file": "mit-8111-s04-s003.mp3",
+          "title": "3. Consent, terms and retention",
+          "seconds": 375.126667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "1ec6512af1d3199e1997637897122e61576da7d139e01834f6de7a4f4cc841f9"
+        },
+        {
+          "file": "mit-8111-s04-s004.mp3",
+          "title": "4. Algorithmic profiling and targeted advertising",
+          "seconds": 429.834667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "8131c7ed94265b0cda02144edec86b7c6dcf69d24cf588b79b1f5c90ec05aff6"
         }
       ],
-      "durationSeconds": 305.635
+      "durationSeconds": 1426.669
     },
     {
       "number": 5,
@@ -338,5 +362,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T17:03:15Z"
+  "updatedAt": "2026-11-26T17:06:23Z"
 }
