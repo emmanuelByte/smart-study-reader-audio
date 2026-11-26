@@ -8,7 +8,7 @@
       "title": "Data Privacy and Legal Frameworks (GDPR, HIPAA, NDPR and NDPA)",
       "sourceSha256": "c0ab6e0826d31a0a14f84bb789231bfdbb7f5d31e635bc73f3a6b44bf70d9f16",
       "totalSections": 10,
-      "readySections": 3,
+      "readySections": 6,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -35,9 +35,33 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "60ac159784ea5bc77694be4d0280bf8972cd379cc8d3c1c8767e45a069814881"
+        },
+        {
+          "file": "mit-8111-s01-s004.mp3",
+          "title": "4. Implementing privacy compliance",
+          "seconds": 356.594,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "adfa56c23a53d5395730d9487d2277899877925f3ab4f77c6719da95c877ec3f"
+        },
+        {
+          "file": "mit-8111-s01-s005.mp3",
+          "title": "5. Breach response and obligations",
+          "seconds": 300.99,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "e7b2a4f00f432279ebf63e9646ef8289ccd7e20be06a0d14f0f7ee70ca8f1730"
+        },
+        {
+          "file": "mit-8111-s01-s006.mp3",
+          "title": "6. Consequences and ethics",
+          "seconds": 299.539333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "817c454c018c27f513c16f52dd3665d1867e7f01afd13cdbc1a47a39b0abcc20"
         }
       ],
-      "durationSeconds": 890.07
+      "durationSeconds": 1847.193
     },
     {
       "number": 2,
@@ -95,5 +119,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:16:48Z"
+  "updatedAt": "2026-11-26T16:22:57Z"
 }
