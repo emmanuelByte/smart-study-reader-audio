@@ -184,8 +184,8 @@
       "title": "Testing and Quality Assurance",
       "sourceSha256": "16aae1d478470a6f3d51ee19ad220b64ec0feff348a90a85e8bade6b874b1fa8",
       "totalSections": 10,
-      "readySections": 8,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -251,9 +251,25 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "40128bdda88df5aa2de0c77b5513571b16361dee0b2d0c223452f761e66f6856"
+        },
+        {
+          "file": "mit-8107-s03-s009.mp3",
+          "title": "CA Q33",
+          "seconds": 464.794,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "8c1d137a2f2bb82e309228ae37f98e5e6b699fd49ea4be5db150988b4d03c66b"
+        },
+        {
+          "file": "mit-8107-s03-s010.mp3",
+          "title": "CA Q39",
+          "seconds": 267.396,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "5c0816f32f855554696254bf81ce078c6b0c4783e4fce53be1e79068854feaca"
         }
       ],
-      "durationSeconds": 2413.366
+      "durationSeconds": 3145.556
     },
     {
       "number": 4,
@@ -289,5 +305,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:07:46Z"
+  "updatedAt": "2026-11-26T14:12:03Z"
 }
