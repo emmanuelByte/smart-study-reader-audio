@@ -1,0 +1,99 @@
+{
+  "course": "MIT 8111",
+  "title": "Ethics and Legal Issues in Information Technology",
+  "sourceRevision": "d2294c2ea22a8ca66b4ef3f0217dd6a61b16ed32",
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Data Privacy and Legal Frameworks (GDPR, HIPAA, NDPR and NDPA)",
+      "sourceSha256": "c0ab6e0826d31a0a14f84bb789231bfdbb7f5d31e635bc73f3a6b44bf70d9f16",
+      "totalSections": 10,
+      "readySections": 3,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [
+        {
+          "file": "mit-8111-s01-s001.mp3",
+          "title": "1. Privacy, security and ethics",
+          "seconds": 280.921958,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "c6117bec8fc16aab33f60eb2221868e9c8f81802a192566f60d7fee80315f4d5"
+        },
+        {
+          "file": "mit-8111-s01-s002.mp3",
+          "title": "2. Compare the regulatory frameworks",
+          "seconds": 327.245333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "b7c351355ca50763308f6c841fc767580ddade3ff5d842e163c69af5cc904baf"
+        },
+        {
+          "file": "mit-8111-s01-s003.mp3",
+          "title": "3. Principles and rights",
+          "seconds": 281.902667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "60ac159784ea5bc77694be4d0280bf8972cd379cc8d3c1c8767e45a069814881"
+        }
+      ],
+      "durationSeconds": 890.07
+    },
+    {
+      "number": 2,
+      "title": "Intellectual Property in Information Technology",
+      "sourceSha256": "dddfe1a240cc7648427665de632102198906d041728ab2f08f4498f1aad21be7",
+      "totalSections": 12,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 3,
+      "title": "Ethics in Software Development and Data Ownership",
+      "sourceSha256": "75f59ebc56bdf89b963e76ac0cefb459491e5f58429d16fd4fa57bb042b9437f",
+      "totalSections": 10,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 4,
+      "title": "Social Media, Privacy and Ethical Dilemmas",
+      "sourceSha256": "b933c7bfd109998343454b3ad4c065d6f5f7337a207d854aa14c0f702d21d2a9",
+      "totalSections": 10,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 5,
+      "title": "Cybersecurity Ethics and Compliance in IT",
+      "sourceSha256": "c86e671fa13c30ad646d5b05c0e9674886dea85db42dfe4ca44f968d2d82d6f0",
+      "totalSections": 10,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 6,
+      "title": "Ethical Dilemmas in Emerging Technologies and Case Studies",
+      "sourceSha256": "40aae24bb7558ad1dd33520fd2ddbb79b0987710e2f651a870e3aaf9e054ac1c",
+      "totalSections": 12,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    }
+  ],
+  "updatedAt": "2026-11-26T16:16:48Z"
+}
