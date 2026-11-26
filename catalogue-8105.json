@@ -8,8 +8,8 @@
       "title": "Foundations of Network Architectures and Design Principles",
       "sourceSha256": "ac107fa1a53c4f88748527b379a9e70008a0f09f956e39d41de5749b7c22f2c2",
       "totalSections": 8,
-      "readySections": 6,
-      "complete": false,
+      "readySections": 8,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -59,9 +59,25 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "09696af29780f2ca3e9662bbbf0e3bb1965a6be58b5177c03c4142414cc1bc6f"
+        },
+        {
+          "file": "mit-8105-s01-s007.mp3",
+          "title": "Additional worked design and protocol practice",
+          "seconds": 201.366,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "6d11934e8e1b638939dda0904862c681e60055b2b3290b329cb04090400319a9"
+        },
+        {
+          "file": "mit-8105-s01-s008.mp3",
+          "title": "Pre-test Q8",
+          "seconds": 151.778,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "14acca07af091cffacd139d6117400414f09d699a9c22da2213626eea5cea7f7"
         }
       ],
-      "durationSeconds": 1717.793
+      "durationSeconds": 2070.937
     },
     {
       "number": 2,
@@ -281,5 +297,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:12:39Z"
+  "updatedAt": "2026-11-26T09:13:48Z"
 }
