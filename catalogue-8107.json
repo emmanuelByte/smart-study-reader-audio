@@ -8,7 +8,7 @@
       "title": "Introduction to SDLC and Planning",
       "sourceSha256": "ed526afb5a0d7bebab843b053425550432915510eb43e11b6649129c1a388778",
       "totalSections": 9,
-      "readySections": 3,
+      "readySections": 6,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -35,9 +35,33 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "4bfd79873d7fb946476443a5ff940bbf2cc8c1c256257722df50a8c33daa8584"
+        },
+        {
+          "file": "mit-8107-s01-s004.mp3",
+          "title": "4. DigitBank case and AeroFreight lab",
+          "seconds": 330.616,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "41b7687d7c887081895b7e699b4980d435360b50afe0d9508a93d74365f4bcee"
+        },
+        {
+          "file": "mit-8107-s01-s005.mp3",
+          "title": "5. Exam consolidation",
+          "seconds": 143.863333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "8eac4dd26b3e66462c85ee12e4c0b83eab22112097ba0d5e1007b5d4bed658ee"
+        },
+        {
+          "file": "mit-8107-s01-s006.mp3",
+          "title": "Additional requirements and feasibility practice",
+          "seconds": 295.934,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "aa341c8554edcea9fc8729a2e84f05ded6c10b540053b7a2a940abc4d71dc394"
         }
       ],
-      "durationSeconds": 986.195
+      "durationSeconds": 1756.608
     },
     {
       "number": 2,
@@ -95,5 +119,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T13:41:17Z"
+  "updatedAt": "2026-11-26T13:43:53Z"
 }
