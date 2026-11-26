@@ -1,0 +1,236 @@
+{
+  "course": "MIT 8105",
+  "title": "Network Architecture and Protocols",
+  "sourceRevision": "d2294c2ea22a8ca66b4ef3f0217dd6a61b16ed32",
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Foundations of Network Architectures and Design Principles",
+      "sourceSha256": "ac107fa1a53c4f88748527b379a9e70008a0f09f956e39d41de5749b7c22f2c2",
+      "totalSections": 8,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 2,
+      "title": "IP Addressing, Subnetting, Routing and Switching Fundamentals",
+      "sourceSha256": "19c4eadb04473a2547847623ac32a3834b5bb8f454e2fb70cdf162baf9fdbdf4",
+      "totalSections": 12,
+      "readySections": 12,
+      "complete": true,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [
+        {
+          "file": "mit-8105-s02-s001.mp3",
+          "title": "IP addresses: the fundamentals",
+          "seconds": 64.350667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "3f7dd994a0bac1b4e49f4be7c3ae931a3a5679a1ab4076c890d8bc2b90b310c6"
+        },
+        {
+          "file": "mit-8105-s02-s002.mp3",
+          "title": "Address ranges and special purposes",
+          "seconds": 96.728667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "6926d58fa3332243f5ac68f776756f306bdc3e917acbedb859408884ab910d3c"
+        },
+        {
+          "file": "mit-8105-s02-s003.mp3",
+          "title": "CIDR and the subnet table",
+          "seconds": 91.395333,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "826541c04f29d1f9cf1bddf82d6718a8120fb8e99b37c9b86c3013984f3e202c"
+        },
+        {
+          "file": "mit-8105-s02-s004.mp3",
+          "title": "Worked subnetting and VLSM",
+          "seconds": 130.408,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "a72b3d7fd3539198c7d726d42ab30a63167d6f0a70fe06ee6cf90e52943aba4a"
+        },
+        {
+          "file": "mit-8105-s02-s005.mp3",
+          "title": "Switching, MAC learning and VLANs",
+          "seconds": 93.763333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "3815413d3e89e30a085139e03402b463173f35ed84a31f2186473594f021b7ce"
+        },
+        {
+          "file": "mit-8105-s02-s006.mp3",
+          "title": "Huawei VLAN configuration lab",
+          "seconds": 68.873333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "6d17b1fec8f5465d8404767d1591f95748bfbdfacd4e387e29d8960a32a42b60"
+        },
+        {
+          "file": "mit-8105-s02-s007.mp3",
+          "title": "Routing protocols",
+          "seconds": 87.128667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "ed2b0e9ad180ea9a8db4e0c33139df01bb7e17a8e3a28218d612dde72f6e948e"
+        },
+        {
+          "file": "mit-8105-s02-s008.mp3",
+          "title": "Routing configuration and validation",
+          "seconds": 80.665958,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "7585bb14e0291fe3504efa1ec434abc94881b7d6a3e12c88f6ad1a57b83b4b4d"
+        },
+        {
+          "file": "mit-8105-s02-s009.mp3",
+          "title": "Exam essay: enterprise network design",
+          "seconds": 61.641333,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "9e557d10d7e91c799b12b024e36351d95eb7d9f8d8c3764113e74c431315a415"
+        },
+        {
+          "file": "mit-8105-s02-s010.mp3",
+          "title": "Additional routing and switching calculations",
+          "seconds": 104.238,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "acfb3feee24b46540d628d5731388af00361bce004129a31772021a20b757221"
+        },
+        {
+          "file": "mit-8105-s02-s011.mp3",
+          "title": "Archived pre-test question seven",
+          "seconds": 53.284667,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "8ae5ee90d2a6fd2b6e8919f3082c531b18caefef66e4a017840e998a2b087d68"
+        },
+        {
+          "file": "mit-8105-s02-s012.mp3",
+          "title": "Archived pre-test question nine",
+          "seconds": 52.858,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "4a38b207477d7d8bbec2472faa85814f8d8a9e5355c757be2cb3e3238744b42e"
+        }
+      ],
+      "durationSeconds": 985.336
+    },
+    {
+      "number": 3,
+      "title": "Wireless Networking, Network Security Principles and Protocols",
+      "sourceSha256": "25160d191fee0d8a63a6fca755fc3ade236d62195cb3b061e771336508d17788",
+      "totalSections": 8,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 4,
+      "title": "Network Performance Monitoring and Optimisation",
+      "sourceSha256": "6ca4e99e2b3d372141180b6f2e9c956115810c7a24921227905cd660e0372dd5",
+      "totalSections": 7,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 5,
+      "title": "Software-Defined Networking (SDN)",
+      "sourceSha256": "6d9dd4dfe2959e23439a9ab672deac39db6390bcb74ce6cd4f57960072cf5f4d",
+      "totalSections": 9,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 6,
+      "title": "Emerging Trends in Networks",
+      "sourceSha256": "175fc2fa0978d156291be6a5c29ae432eee1b6185556e9adbd27e38f87d21180",
+      "totalSections": 8,
+      "readySections": 8,
+      "complete": true,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [
+        {
+          "file": "mit-8105-s06-s001.mp3",
+          "title": "1. Network virtualisation, NFV and cloud",
+          "seconds": 194.347333,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "5a5ccff3a02159b2a07062f5f978a1029cead820e327d8d1a5ed14bf9a5da5f7"
+        },
+        {
+          "file": "mit-8105-s06-s002.mp3",
+          "title": "2. Mobile generations and 5G",
+          "seconds": 128.168,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "9141b78d61251563637ce3fe843b0cd617aa5f7c57c008539c35461c77e53de3"
+        },
+        {
+          "file": "mit-8105-s06-s003.mp3",
+          "title": "3. Edge computing and MEC",
+          "seconds": 79.774667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "7c1410add597eee79413baba5530202fcd86d0691b36193f0dd4edc3ff861bb6"
+        },
+        {
+          "file": "mit-8105-s06-s004.mp3",
+          "title": "4. UniSteel predictive-maintenance CA application",
+          "seconds": 184.22,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "4ca117d75862725d0191bf7841a31c78ed4cd80fba2786b53c5784cf4afd5159"
+        },
+        {
+          "file": "mit-8105-s06-s005.mp3",
+          "title": "5. Convergence and lab",
+          "seconds": 72.841958,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "a4ca9b2f9a6a213ec901c9a461bfee84901bbe2ce638a874ea32a23e901ef23c"
+        },
+        {
+          "file": "mit-8105-s06-s006.mp3",
+          "title": "6. Model essay",
+          "seconds": 64.5,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "e597b6acf6ecd4a444487bd3ef2e2514f87b460e0be60dc4f83da859fd23c838"
+        },
+        {
+          "file": "mit-8105-s06-s007.mp3",
+          "title": "Additional 6G and emerging-network revision",
+          "seconds": 87.640667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "06b9c0dc3e381da813d64dec01bb765d63709c1b261997bc587882c102c8bbab"
+        },
+        {
+          "file": "mit-8105-s06-s008.mp3",
+          "title": "Pre-test Q2",
+          "seconds": 51.215333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "3e98b14693785ba188a8a535c2a7fe7239fce5649c4df0765cfa9c9af6f3fae7"
+        }
+      ],
+      "durationSeconds": 862.708
+    }
+  ],
+  "updatedAt": "2026-11-26T09:07:23Z"
+}
