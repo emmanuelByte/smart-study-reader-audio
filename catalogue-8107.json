@@ -452,8 +452,8 @@
       "title": "Project Documentation and Team Collaboration",
       "sourceSha256": "80a23120bf0ed712cd62f117b8d586ab12f79faed9b081bf544a3b2a8deed87a",
       "totalSections": 9,
-      "readySections": 6,
-      "complete": false,
+      "readySections": 9,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -503,10 +503,34 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "ac46f7b2ef761ef24259f88a65ce3b962a20a0a96698de1e735715f1cf85835c"
+        },
+        {
+          "file": "mit-8107-s06-s007.mp3",
+          "title": "Additional collaboration and documentation practice",
+          "seconds": 187.35,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "f6d310c5cdd12c5b9ab84412ddc61a0dc2310db618d2cbc34f0148296b6adbb7"
+        },
+        {
+          "file": "mit-8107-s06-s008.mp3",
+          "title": "Pre-test Q8",
+          "seconds": 206.251333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "ef85b5f8459ff65d47b9ee834eebc7999ddad3e98120e6226919894a58d9b0bb"
+        },
+        {
+          "file": "mit-8107-s06-s009.mp3",
+          "title": "CA Q37",
+          "seconds": 419.387333,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "d63c5140d340f4051d87f721003a3bc40138a88170fc206644477701310b4474"
         }
       ],
-      "durationSeconds": 1863.153
+      "durationSeconds": 2676.142
     }
   ],
-  "updatedAt": "2026-11-26T14:40:29Z"
+  "updatedAt": "2026-11-26T14:45:43Z"
 }
