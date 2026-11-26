@@ -1,0 +1,99 @@
+{
+  "course": "MIT 8107",
+  "title": "Software Development Lifecycle",
+  "sourceRevision": "d2294c2ea22a8ca66b4ef3f0217dd6a61b16ed32",
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Introduction to SDLC and Planning",
+      "sourceSha256": "ed526afb5a0d7bebab843b053425550432915510eb43e11b6649129c1a388778",
+      "totalSections": 9,
+      "readySections": 3,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [
+        {
+          "file": "mit-8107-s01-s001.mp3",
+          "title": "1. What the SDLC is",
+          "seconds": 333.069333,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "f66c9e3631db397bd3015a319fc70c96c5f02e33925940397c02eefcb0104fea"
+        },
+        {
+          "file": "mit-8107-s01-s002.mp3",
+          "title": "2. Requirements engineering",
+          "seconds": 280.516,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "cdae911375a61b3f3dab0c3fef9feffb5cb5e1467d6a869dd4d1525982b85fb8"
+        },
+        {
+          "file": "mit-8107-s01-s003.mp3",
+          "title": "3. Lifecycle models",
+          "seconds": 372.609333,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "4bfd79873d7fb946476443a5ff940bbf2cc8c1c256257722df50a8c33daa8584"
+        }
+      ],
+      "durationSeconds": 986.195
+    },
+    {
+      "number": 2,
+      "title": "Design and Development",
+      "sourceSha256": "b1f310740423d6aa05b2b513dd59e71e70a20c42641a04f5788d4986ea787167",
+      "totalSections": 10,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 3,
+      "title": "Testing and Quality Assurance",
+      "sourceSha256": "16aae1d478470a6f3d51ee19ad220b64ec0feff348a90a85e8bade6b874b1fa8",
+      "totalSections": 10,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 4,
+      "title": "Agile Frameworks, Iterative and Incremental Development",
+      "sourceSha256": "c12a6ff5cad123b209555aba2e7cfc1542fa0dee4e5a1c1f3268d0b02b233c41",
+      "totalSections": 9,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 5,
+      "title": "CI/CD, DevOps and Release Management",
+      "sourceSha256": "d4789bd5627b8d52fedc32d6728a5eec596d5f864d7189941fd93802375290d2",
+      "totalSections": 10,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 6,
+      "title": "Project Documentation and Team Collaboration",
+      "sourceSha256": "80a23120bf0ed712cd62f117b8d586ab12f79faed9b081bf544a3b2a8deed87a",
+      "totalSections": 9,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    }
+  ],
+  "updatedAt": "2026-11-26T13:41:17Z"
+}
