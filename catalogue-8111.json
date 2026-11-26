@@ -100,7 +100,7 @@
       "title": "Intellectual Property in Information Technology",
       "sourceSha256": "dddfe1a240cc7648427665de632102198906d041728ab2f08f4498f1aad21be7",
       "totalSections": 12,
-      "readySections": 8,
+      "readySections": 11,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -167,9 +167,33 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "1f4f327f566137fdfb6215a99c57c598f1be825da8f42e12e5968c8e433652f2"
+        },
+        {
+          "file": "mit-8111-s02-s009.mp3",
+          "title": "9. Worked archived CA questions",
+          "seconds": 103.640667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "5615de5241f79a11c61c0687cd80a683e0e91d2465b483443e62c7a9e3b6c429"
+        },
+        {
+          "file": "mit-8111-s02-s010.mp3",
+          "title": "9. Worked archived CA questions",
+          "seconds": 406.395333,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "73faf7920c5566ccc1326f878be60b0e9a628eba09ea2fd54c1ec6fb058a665e"
+        },
+        {
+          "file": "mit-8111-s02-s011.mp3",
+          "title": "10. Independent case-analysis practice",
+          "seconds": 398.779333,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "7c98a2de895656a474f44f77b893246e5c1a84fa4a86a67055a8cff3899088d8"
         }
       ],
-      "durationSeconds": 2455.652
+      "durationSeconds": 3364.467
     },
     {
       "number": 3,
@@ -216,5 +240,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:42:04Z"
+  "updatedAt": "2026-11-26T16:46:19Z"
 }
