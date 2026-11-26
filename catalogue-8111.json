@@ -208,7 +208,7 @@
       "title": "Ethics in Software Development and Data Ownership",
       "sourceSha256": "75f59ebc56bdf89b963e76ac0cefb459491e5f58429d16fd4fa57bb042b9437f",
       "totalSections": 10,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -251,9 +251,33 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "4166c064826c21d8f63cff1109421c7b01665a3dcfd0fbf5f15eb23e2ad147d4"
+        },
+        {
+          "file": "mit-8111-s03-s006.mp3",
+          "title": "6. Ethical leadership and escalation",
+          "seconds": 325.368,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "d085eeade9d97aa338982ae005416460957c98bcb20691ba7dea024180194b21"
+        },
+        {
+          "file": "mit-8111-s03-s007.mp3",
+          "title": "7. TechCare Solutions case",
+          "seconds": 232.357333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "476f6d9492712f966478d9cd5cf182778919f9dadd0c670056af43067139244b"
+        },
+        {
+          "file": "mit-8111-s03-s008.mp3",
+          "title": "8. Worked archived CA questions",
+          "seconds": 284.627333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "840e669a15908fd91e85b305717c87e6cf7f3d468b63dd7b42f2e1b44579b53b"
         }
       ],
-      "durationSeconds": 1729.451
+      "durationSeconds": 2571.804
     },
     {
       "number": 4,
@@ -289,5 +313,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:56:15Z"
+  "updatedAt": "2026-11-26T16:59:38Z"
 }
