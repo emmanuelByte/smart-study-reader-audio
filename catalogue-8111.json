@@ -300,8 +300,8 @@
       "title": "Social Media, Privacy and Ethical Dilemmas",
       "sourceSha256": "b933c7bfd109998343454b3ad4c065d6f5f7337a207d854aa14c0f702d21d2a9",
       "totalSections": 10,
-      "readySections": 7,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -359,9 +359,33 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "ca56d7f1641570d0a11eed2f0f1522134b6533c552a7ac995821148bf349e339"
+        },
+        {
+          "file": "mit-8111-s04-s008.mp3",
+          "title": "8. Worked archived CA questions",
+          "seconds": 289.668,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "0ac7a57f58a478d85c5171eef6b4d5001226d4ddb9540ceba2d9d08a343e9d54"
+        },
+        {
+          "file": "mit-8111-s04-s009.mp3",
+          "title": "9. Independent practice case: workplace monitoring",
+          "seconds": 342.84,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "bf3e407cdd42d8153c87f7c8e9f74ddbdf11a3628534c61040867c45b8f459ba"
+        },
+        {
+          "file": "mit-8111-s04-s010.mp3",
+          "title": "10. Worked case-analysis example: social sorting and platform power",
+          "seconds": 285.230667,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "34b1654ea99b0e4f8a0a7c96bd66322c997904a6f0a066f1646a6d26abdf6ef6"
         }
       ],
-      "durationSeconds": 2383.472
+      "durationSeconds": 3301.211
     },
     {
       "number": 5,
@@ -386,5 +410,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T17:10:44Z"
+  "updatedAt": "2026-11-26T17:13:34Z"
 }
