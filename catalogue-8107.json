@@ -276,7 +276,7 @@
       "title": "Agile Frameworks, Iterative and Incremental Development",
       "sourceSha256": "c12a6ff5cad123b209555aba2e7cfc1542fa0dee4e5a1c1f3268d0b02b233c41",
       "totalSections": 9,
-      "readySections": 4,
+      "readySections": 7,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -311,9 +311,33 @@
           "startSection": 4,
           "endSection": 4,
           "sha256": "ebea3da248b90191b0d1419bc65360ec05cde8d8db14e9c887b710955001add5"
+        },
+        {
+          "file": "mit-8107-s04-s005.mp3",
+          "title": "5. Metrics and tools",
+          "seconds": 178.332,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "64c7b7fe7eb2bab89b6d40620732b63e208874d6dbcf7d3fc54aa58bd66278fa"
+        },
+        {
+          "file": "mit-8107-s04-s006.mp3",
+          "title": "6. AeroFreight capstone integration exercise",
+          "seconds": 216.528,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "b53772ed3b5ad349015ca4e63ba6c200c90eca965164e7e32fd7f4ac707f18be"
+        },
+        {
+          "file": "mit-8107-s04-s007.mp3",
+          "title": "7. Exam consolidation",
+          "seconds": 143.884667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "89f8ec76f11f9627c17859795bc61701accc0c2978b74ce1ec03d8de8b72d191"
         }
       ],
-      "durationSeconds": 981.891
+      "durationSeconds": 1520.636
     },
     {
       "number": 5,
@@ -338,5 +362,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:16:00Z"
+  "updatedAt": "2026-11-26T14:17:50Z"
 }
