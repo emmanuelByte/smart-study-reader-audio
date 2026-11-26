@@ -92,11 +92,36 @@
       "title": "Design and Development",
       "sourceSha256": "b1f310740423d6aa05b2b513dd59e71e70a20c42641a04f5788d4986ea787167",
       "totalSections": 10,
-      "readySections": 0,
+      "readySections": 3,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8107-s02-s001.mp3",
+          "title": "1. Architecture and design patterns",
+          "seconds": 371.804667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "514ccb1767e858ec05b133d80aed616c913467a075ff8c04c8c28eb5590c294d"
+        },
+        {
+          "file": "mit-8107-s02-s002.mp3",
+          "title": "2. Coding quality",
+          "seconds": 277.828,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "a7108d657b95039213e80e87bd347b7256718bcddd9a603fb8af3bab8e90133b"
+        },
+        {
+          "file": "mit-8107-s02-s003.mp3",
+          "title": "3. Secure development and performance",
+          "seconds": 311.593958,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "777b6f3b7b3571890c794115a39a0a47b8b67507b52683d1617500ec1dc27493"
+        }
+      ],
+      "durationSeconds": 961.227
     },
     {
       "number": 3,
@@ -143,5 +168,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T13:46:40Z"
+  "updatedAt": "2026-11-26T13:50:35Z"
 }
