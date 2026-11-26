@@ -392,11 +392,36 @@
       "title": "Cybersecurity Ethics and Compliance in IT",
       "sourceSha256": "c86e671fa13c30ad646d5b05c0e9674886dea85db42dfe4ca44f968d2d82d6f0",
       "totalSections": 10,
-      "readySections": 0,
+      "readySections": 3,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8111-s05-s001.mp3",
+          "title": "1. Cybersecurity and professional ethics",
+          "seconds": 344.632,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "590bfdee75a488396e2f6b536353500ff77eb4bdddecdf0151fde6d022b185af"
+        },
+        {
+          "file": "mit-8111-s05-s002.mp3",
+          "title": "2. Ethical security policy and global context",
+          "seconds": 266.079333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "4070adfdbdb310abf867bb498c59081ae729da902ef8e2026a1753d6cfaa232e"
+        },
+        {
+          "file": "mit-8111-s05-s003.mp3",
+          "title": "3. Compliance frameworks and governance",
+          "seconds": 314.232,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "827daafa0f8721404d21e5748077a2426d05e66a09734c244da12e6b7356d059"
+        }
+      ],
+      "durationSeconds": 924.943
     },
     {
       "number": 6,
@@ -410,5 +435,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T17:13:55Z"
+  "updatedAt": "2026-11-26T17:16:39Z"
 }
