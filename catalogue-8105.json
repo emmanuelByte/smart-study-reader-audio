@@ -336,7 +336,7 @@
       "title": "Software-Defined Networking (SDN)",
       "sourceSha256": "6d9dd4dfe2959e23439a9ab672deac39db6390bcb74ce6cd4f57960072cf5f4d",
       "totalSections": 9,
-      "readySections": 1,
+      "readySections": 4,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -347,9 +347,33 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "5e86532ab312f9e4824fea89792932bdb48c515a1ef295ccb0ba597245657a99"
+        },
+        {
+          "file": "mit-8105-s05-s002.mp3",
+          "title": "2. Controllers",
+          "seconds": 251.594,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "b5042ddf4ee5a4a9dbc5bd4e81e41b195448f67e2008360bc96c5f3a3c753cca"
+        },
+        {
+          "file": "mit-8105-s05-s003.mp3",
+          "title": "3. OpenFlow",
+          "seconds": 308.072667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "478e419737c23d66a729d635cc711dfd818ba885f2213cf8f3d3f85436e31538"
+        },
+        {
+          "file": "mit-8105-s05-s004.mp3",
+          "title": "4. Intent-based networking (IBN)",
+          "seconds": 249.759333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "fc54ae54abe1c7dffb2b69ea1e081c2cbfbe86ee99b953c8a6c0efd36beadf71"
         }
       ],
-      "durationSeconds": 318.051
+      "durationSeconds": 1127.477
     },
     {
       "number": 6,
@@ -428,5 +452,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:31:43Z"
+  "updatedAt": "2026-11-26T09:35:33Z"
 }
