@@ -360,11 +360,20 @@
       "title": "CI/CD, DevOps and Release Management",
       "sourceSha256": "d4789bd5627b8d52fedc32d6728a5eec596d5f864d7189941fd93802375290d2",
       "totalSections": 10,
-      "readySections": 0,
+      "readySections": 1,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8107-s05-s001.mp3",
+          "title": "1. DevOps and continuous delivery",
+          "seconds": 347.868667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "1178dd44992c9b021e137de8fd03bd8e749258fadd23a59118b84082e2ad7fc4"
+        }
+      ],
+      "durationSeconds": 347.869
     },
     {
       "number": 6,
@@ -378,5 +387,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:20:29Z"
+  "updatedAt": "2026-11-26T14:22:55Z"
 }
