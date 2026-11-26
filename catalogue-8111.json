@@ -8,8 +8,8 @@
       "title": "Data Privacy and Legal Frameworks (GDPR, HIPAA, NDPR and NDPA)",
       "sourceSha256": "c0ab6e0826d31a0a14f84bb789231bfdbb7f5d31e635bc73f3a6b44bf70d9f16",
       "totalSections": 10,
-      "readySections": 9,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -83,9 +83,17 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "a211caedfb0fd1c280990e7faba01dff522000a13a2bf1013d006e33e51881a4"
+        },
+        {
+          "file": "mit-8111-s01-s010.mp3",
+          "title": "10. Worked case-analysis example and compliance operations",
+          "seconds": 322.345958,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "b76f7be773b0109459645f8a435deb0f3e834e9521053dc4307ee255f0926baa"
         }
       ],
-      "durationSeconds": 2831.057
+      "durationSeconds": 3153.403
     },
     {
       "number": 2,
@@ -143,5 +151,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:28:58Z"
+  "updatedAt": "2026-11-26T16:31:11Z"
 }
