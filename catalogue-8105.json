@@ -336,11 +336,20 @@
       "title": "Software-Defined Networking (SDN)",
       "sourceSha256": "6d9dd4dfe2959e23439a9ab672deac39db6390bcb74ce6cd4f57960072cf5f4d",
       "totalSections": 9,
-      "readySections": 0,
+      "readySections": 1,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8105-s05-s001.mp3",
+          "title": "1. SDN foundations",
+          "seconds": 318.050667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "5e86532ab312f9e4824fea89792932bdb48c515a1ef295ccb0ba597245657a99"
+        }
+      ],
+      "durationSeconds": 318.051
     },
     {
       "number": 6,
@@ -419,5 +428,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:29:09Z"
+  "updatedAt": "2026-11-26T09:31:43Z"
 }
