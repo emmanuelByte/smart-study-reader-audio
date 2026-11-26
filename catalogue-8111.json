@@ -484,7 +484,7 @@
       "title": "Ethical Dilemmas in Emerging Technologies and Case Studies",
       "sourceSha256": "40aae24bb7558ad1dd33520fd2ddbb79b0987710e2f651a870e3aaf9e054ac1c",
       "totalSections": 12,
-      "readySections": 8,
+      "readySections": 11,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -551,10 +551,34 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "5f4364837ed6d15616292a79c7da9b0db9e9127d8ad9592a297676c79be738f1"
+        },
+        {
+          "file": "mit-8111-s06-s009.mp3",
+          "title": "9. Worked archived CA questions",
+          "seconds": 267.78,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "90a5b4a1bcb476a61930cfcdbb9f600ab5001719a5ff52519eed48427dc04de9"
+        },
+        {
+          "file": "mit-8111-s06-s010.mp3",
+          "title": "10. Case-analysis method for independent examination preparation",
+          "seconds": 305.726,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "bc191d7ab33f6455d50aebbbcac040b69208332cd1a912354262e0e55bac4d94"
+        },
+        {
+          "file": "mit-8111-s06-s011.mp3",
+          "title": "11. Additional emerging-technology dilemmas from lecture coverage",
+          "seconds": 273.476,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "6f231961da0b6f13666920d68c0dd12655bc8006af9244d26f0dd930fa3fba1b"
         }
       ],
-      "durationSeconds": 2725.709
+      "durationSeconds": 3572.691
     }
   ],
-  "updatedAt": "2026-11-26T17:31:19Z"
+  "updatedAt": "2026-11-26T17:33:55Z"
 }
