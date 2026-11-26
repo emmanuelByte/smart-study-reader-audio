@@ -276,7 +276,7 @@
       "title": "Agile Frameworks, Iterative and Incremental Development",
       "sourceSha256": "c12a6ff5cad123b209555aba2e7cfc1542fa0dee4e5a1c1f3268d0b02b233c41",
       "totalSections": 9,
-      "readySections": 1,
+      "readySections": 4,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -287,9 +287,33 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "4adf5b6494c97ee1468fe3752e5c94d5d5ff89165053775a84c51e188831fb80"
+        },
+        {
+          "file": "mit-8107-s04-s002.mp3",
+          "title": "2. Scrum",
+          "seconds": 205.568667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "4be5d345f84f60af2b8a1a4f0f46e987f293b0ebec3302ec508a6c72c0b803f2"
+        },
+        {
+          "file": "mit-8107-s04-s003.mp3",
+          "title": "3. Kanban and flow",
+          "seconds": 194.518,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "6d88dbdcb45c07b1904a1c0da2c1a294d60983ce644237915a7561e9e98355d0"
+        },
+        {
+          "file": "mit-8107-s04-s004.mp3",
+          "title": "4. Iterative versus incremental",
+          "seconds": 290.43,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "ebea3da248b90191b0d1419bc65360ec05cde8d8db14e9c887b710955001add5"
         }
       ],
-      "durationSeconds": 291.375
+      "durationSeconds": 981.891
     },
     {
       "number": 5,
@@ -314,5 +338,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:13:58Z"
+  "updatedAt": "2026-11-26T14:16:00Z"
 }
