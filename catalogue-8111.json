@@ -208,8 +208,8 @@
       "title": "Ethics in Software Development and Data Ownership",
       "sourceSha256": "75f59ebc56bdf89b963e76ac0cefb459491e5f58429d16fd4fa57bb042b9437f",
       "totalSections": 10,
-      "readySections": 8,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -275,9 +275,25 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "840e669a15908fd91e85b305717c87e6cf7f3d468b63dd7b42f2e1b44579b53b"
+        },
+        {
+          "file": "mit-8111-s03-s009.mp3",
+          "title": "9. Independent practice case",
+          "seconds": 401.19,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "1b6c250ed2a3a65b4695bdcea61986458e6e39fcfddb4d16a8b0f75588971fa5"
+        },
+        {
+          "file": "mit-8111-s03-s010.mp3",
+          "title": "10. Worked case-analysis example: meaningful consent and inclusive design",
+          "seconds": 316.072667,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "206af0ad9d451cdb25e75400d2f46c0dcaedae319b1ef1a52d46e46338968f3c"
         }
       ],
-      "durationSeconds": 2571.804
+      "durationSeconds": 3289.067
     },
     {
       "number": 4,
@@ -313,5 +329,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:59:38Z"
+  "updatedAt": "2026-11-26T17:01:54Z"
 }
