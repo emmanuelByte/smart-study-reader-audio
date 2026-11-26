@@ -192,7 +192,7 @@
       "title": "Wireless Networking, Network Security Principles and Protocols",
       "sourceSha256": "25160d191fee0d8a63a6fca755fc3ade236d62195cb3b061e771336508d17788",
       "totalSections": 8,
-      "readySections": 4,
+      "readySections": 7,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -227,9 +227,33 @@
           "startSection": 4,
           "endSection": 4,
           "sha256": "76d6deefb3bc6e4804d166b14d5359f0fcba740d329d9105b46997c06bc36b4e"
+        },
+        {
+          "file": "mit-8105-s03-s005.mp3",
+          "title": "5. Case and lab",
+          "seconds": 260.206667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "5b2cafbed989e5a1189d88d3ba4b59d1f028dad3f4eee686fc73276ac26984f6"
+        },
+        {
+          "file": "mit-8105-s03-s006.mp3",
+          "title": "6. Model essay",
+          "seconds": 359.068667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "e2640d07f3ca6c89bdd7a7b08c63d3d724483ff6a56c4869c89e71d96af5cb20"
+        },
+        {
+          "file": "mit-8105-s03-s007.mp3",
+          "title": "Additional security configuration reasoning",
+          "seconds": 330.274667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "7d0e99cf5e652172c8699fbb295c688d86f5653339ffee422b71d0390440d0ea"
         }
       ],
-      "durationSeconds": 1341.061
+      "durationSeconds": 2290.611
     },
     {
       "number": 4,
@@ -330,5 +354,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:17:56Z"
+  "updatedAt": "2026-11-26T09:20:52Z"
 }
