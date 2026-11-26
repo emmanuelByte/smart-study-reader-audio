@@ -100,7 +100,7 @@
       "title": "Intellectual Property in Information Technology",
       "sourceSha256": "dddfe1a240cc7648427665de632102198906d041728ab2f08f4498f1aad21be7",
       "totalSections": 12,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -143,9 +143,33 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "99a2df231ba614e97def4209205630d5be21ecdaa195d012d9f13de2fca506c1"
+        },
+        {
+          "file": "mit-8111-s02-s006.mp3",
+          "title": "6. Software licensing models and ethics",
+          "seconds": 361.884667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "b396dcd7fa61acb311248649fb73e9a2e1828b58347bbea3ccdde98de18b54fb"
+        },
+        {
+          "file": "mit-8111-s02-s007.mp3",
+          "title": "7. Organisational IP management",
+          "seconds": 228.624,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "a99bc21988203adb2cf86d29593090a191378ce2aa6e677eef75e98a04ea10c8"
+        },
+        {
+          "file": "mit-8111-s02-s008.mp3",
+          "title": "8. Emerging IP challenges",
+          "seconds": 251.231333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "1f4f327f566137fdfb6215a99c57c598f1be825da8f42e12e5968c8e433652f2"
         }
       ],
-      "durationSeconds": 1613.912
+      "durationSeconds": 2455.652
     },
     {
       "number": 3,
@@ -192,5 +216,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:37:01Z"
+  "updatedAt": "2026-11-26T16:42:04Z"
 }
