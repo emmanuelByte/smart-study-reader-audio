@@ -208,7 +208,7 @@
       "title": "Ethics in Software Development and Data Ownership",
       "sourceSha256": "75f59ebc56bdf89b963e76ac0cefb459491e5f58429d16fd4fa57bb042b9437f",
       "totalSections": 10,
-      "readySections": 2,
+      "readySections": 5,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -227,9 +227,33 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "c364a05a1687b5af4372518dcc338bd3a7cf2a6ac4d7575478005e0e4811b25a"
+        },
+        {
+          "file": "mit-8111-s03-s003.mp3",
+          "title": "3. Responsible design throughout the lifecycle",
+          "seconds": 346.945958,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "5929d7b6a4ec3043158d596baf7788a3bd4df07e8b2ea8b2b7f7d9cece814c87"
+        },
+        {
+          "file": "mit-8111-s03-s004.mp3",
+          "title": "4. Data ownership, stewardship and consent",
+          "seconds": 561.474,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "423877d328d163c6b06469455ceba49401e6e7b9a10fc2c67aef7885f1ed3178"
+        },
+        {
+          "file": "mit-8111-s03-s005.mp3",
+          "title": "5. Balancing innovation with responsibility",
+          "seconds": 288.238667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "4166c064826c21d8f63cff1109421c7b01665a3dcfd0fbf5f15eb23e2ad147d4"
         }
       ],
-      "durationSeconds": 532.793
+      "durationSeconds": 1729.451
     },
     {
       "number": 4,
@@ -265,5 +289,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:49:18Z"
+  "updatedAt": "2026-11-26T16:56:15Z"
 }
