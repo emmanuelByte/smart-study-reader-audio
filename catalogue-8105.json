@@ -192,8 +192,8 @@
       "title": "Wireless Networking, Network Security Principles and Protocols",
       "sourceSha256": "25160d191fee0d8a63a6fca755fc3ade236d62195cb3b061e771336508d17788",
       "totalSections": 8,
-      "readySections": 7,
-      "complete": false,
+      "readySections": 8,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -251,9 +251,17 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "7d0e99cf5e652172c8699fbb295c688d86f5653339ffee422b71d0390440d0ea"
+        },
+        {
+          "file": "mit-8105-s03-s008.mp3",
+          "title": "Pre-test Q10",
+          "seconds": 227.728,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "488c0db743958d058685baff6b57a2661c51a03a56a3acaa615b373264565d57"
         }
       ],
-      "durationSeconds": 2290.611
+      "durationSeconds": 2518.339
     },
     {
       "number": 4,
@@ -354,5 +362,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:20:52Z"
+  "updatedAt": "2026-11-26T09:22:16Z"
 }
