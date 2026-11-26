@@ -268,8 +268,8 @@
       "title": "Network Performance Monitoring and Optimisation",
       "sourceSha256": "6ca4e99e2b3d372141180b6f2e9c956115810c7a24921227905cd660e0372dd5",
       "totalSections": 7,
-      "readySections": 5,
-      "complete": false,
+      "readySections": 7,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -311,9 +311,25 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "c72e7869b29edca509a1dd9deef836ceb92cd9690c8ceab9878eaf4c60e2f9c6"
+        },
+        {
+          "file": "mit-8105-s04-s006.mp3",
+          "title": "Additional diagnostic and optimisation examples",
+          "seconds": 230.608,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "47becab429d0d771602260c927f59927aef458a40b8fbc94aa489fc9c85f3e15"
+        },
+        {
+          "file": "mit-8105-s04-s007.mp3",
+          "title": "Pre-test Q6",
+          "seconds": 206.123333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "e1f7a2fb4dcbfd76f15ba1a9da66873b8f8fd6845fac93b2aee408c943ff6e3e"
         }
       ],
-      "durationSeconds": 1567.167
+      "durationSeconds": 2003.899
     },
     {
       "number": 5,
@@ -403,5 +419,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:27:23Z"
+  "updatedAt": "2026-11-26T09:29:09Z"
 }
