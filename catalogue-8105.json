@@ -336,7 +336,7 @@
       "title": "Software-Defined Networking (SDN)",
       "sourceSha256": "6d9dd4dfe2959e23439a9ab672deac39db6390bcb74ce6cd4f57960072cf5f4d",
       "totalSections": 9,
-      "readySections": 4,
+      "readySections": 7,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -371,9 +371,33 @@
           "startSection": 4,
           "endSection": 4,
           "sha256": "fc54ae54abe1c7dffb2b69ea1e081c2cbfbe86ee99b953c8a6c0efd36beadf71"
+        },
+        {
+          "file": "mit-8105-s05-s005.mp3",
+          "title": "5. University of National Tech case",
+          "seconds": 182.214667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "90e4b00031aced75c21948ec22580026dd93f5864221c85c0d2ed876afbebac8"
+        },
+        {
+          "file": "mit-8105-s05-s006.mp3",
+          "title": "6. Practical lab",
+          "seconds": 292.222,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "554f659977658e3c0e2c51a00c92a7d6b745a6e706a8c82b4573803d7c4e5f6f"
+        },
+        {
+          "file": "mit-8105-s05-s007.mp3",
+          "title": "7. Model essay",
+          "seconds": 293.672667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "37e2df0f26c6a3c1bdb741543b2f28f889090d9e9cfc58e5ddc0b07276fc8899"
         }
       ],
-      "durationSeconds": 1127.477
+      "durationSeconds": 1895.586
     },
     {
       "number": 6,
@@ -452,5 +476,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:35:33Z"
+  "updatedAt": "2026-11-26T09:37:52Z"
 }
