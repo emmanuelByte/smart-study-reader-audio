@@ -452,7 +452,7 @@
       "title": "Project Documentation and Team Collaboration",
       "sourceSha256": "80a23120bf0ed712cd62f117b8d586ab12f79faed9b081bf544a3b2a8deed87a",
       "totalSections": 9,
-      "readySections": 3,
+      "readySections": 6,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -479,10 +479,34 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "0a08f3ec830b7b967a3b33155c48b5b4ee29ba82862a76a5e71bc853b9aa657f"
+        },
+        {
+          "file": "mit-8107-s06-s004.mp3",
+          "title": "4. Tools and integration",
+          "seconds": 295.720667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "3b21628ae22ed994430317a28eb852758bc4a703bf9b03efd5125c7c344a91e5"
+        },
+        {
+          "file": "mit-8107-s06-s005.mp3",
+          "title": "5. AeroFreight metrics and defect tracking lab",
+          "seconds": 268.036,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "9e0379b48e9b6ae8a5cbde039af19f3034e4e9bad759fe33c06c66447742e3d5"
+        },
+        {
+          "file": "mit-8107-s06-s006.mp3",
+          "title": "6. Exam consolidation",
+          "seconds": 315.256,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "ac46f7b2ef761ef24259f88a65ce3b962a20a0a96698de1e735715f1cf85835c"
         }
       ],
-      "durationSeconds": 984.141
+      "durationSeconds": 1863.153
     }
   ],
-  "updatedAt": "2026-11-26T14:37:41Z"
+  "updatedAt": "2026-11-26T14:40:29Z"
 }
