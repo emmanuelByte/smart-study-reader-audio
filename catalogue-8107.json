@@ -360,7 +360,7 @@
       "title": "CI/CD, DevOps and Release Management",
       "sourceSha256": "d4789bd5627b8d52fedc32d6728a5eec596d5f864d7189941fd93802375290d2",
       "totalSections": 10,
-      "readySections": 4,
+      "readySections": 7,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -395,9 +395,33 @@
           "startSection": 4,
           "endSection": 4,
           "sha256": "c38b7309805c96a154d22a2c5e38c1ea1e0b9e18a67a9afdea3435bfa6f101fe"
+        },
+        {
+          "file": "mit-8107-s05-s005.mp3",
+          "title": "5. Disaster recovery and operational metrics",
+          "seconds": 264.671333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "d9d1189dde1881ef2e602b7a93f76be213874ae0e8edcb10112946b4f7e1677e"
+        },
+        {
+          "file": "mit-8107-s05-s006.mp3",
+          "title": "6. 3Bells Solutions case",
+          "seconds": 244.575333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "a4f6cc18a6a2bdea5b5ed24bdd58cff5b03334eff17f9077c7b4c8d027ba254a"
+        },
+        {
+          "file": "mit-8107-s05-s007.mp3",
+          "title": "7. Exam consolidation",
+          "seconds": 208.442667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "04ae3e900958a2a9e6754a8c23887a852fd19c2ec8af9e9b9bcd0d62baa61eef"
         }
       ],
-      "durationSeconds": 1152.26
+      "durationSeconds": 1869.949
     },
     {
       "number": 6,
@@ -411,5 +435,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T14:26:54Z"
+  "updatedAt": "2026-11-26T14:29:08Z"
 }
