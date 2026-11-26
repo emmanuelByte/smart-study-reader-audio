@@ -484,12 +484,29 @@
       "title": "Ethical Dilemmas in Emerging Technologies and Case Studies",
       "sourceSha256": "40aae24bb7558ad1dd33520fd2ddbb79b0987710e2f651a870e3aaf9e054ac1c",
       "totalSections": 12,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8111-s06-s001.mp3",
+          "title": "1. Emerging technologies and responsible innovation",
+          "seconds": 247.284667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "260d6d142e0d1655f891e56ca9e3f7be2d88981ab9bce3775b0a002ed2f505b3"
+        },
+        {
+          "file": "mit-8111-s06-s002.mp3",
+          "title": "2. AI ethics: bias, fairness and accountability",
+          "seconds": 461.807333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "a0825191e751978aa1bc515c128ab04ec9750f6208e4b74fd100c59373c2df3e"
+        }
+      ],
+      "durationSeconds": 709.092
     }
   ],
-  "updatedAt": "2026-11-26T17:23:08Z"
+  "updatedAt": "2026-11-26T17:25:19Z"
 }
