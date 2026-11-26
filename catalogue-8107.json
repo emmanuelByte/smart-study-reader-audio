@@ -92,8 +92,8 @@
       "title": "Design and Development",
       "sourceSha256": "b1f310740423d6aa05b2b513dd59e71e70a20c42641a04f5788d4986ea787167",
       "totalSections": 10,
-      "readySections": 9,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -167,9 +167,17 @@
           "startSection": 9,
           "endSection": 9,
           "sha256": "c489f4b4829cfad60dc3616263d88adf9227a0cad5488c353e5208a46a42b81a"
+        },
+        {
+          "file": "mit-8107-s02-s010.mp3",
+          "title": "CA Q30",
+          "seconds": 241.012667,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "2830975a2c1537df9e757c4673d67e59f14f89ae71fd8041b9372e2b30299344"
         }
       ],
-      "durationSeconds": 2427.112
+      "durationSeconds": 2668.125
     },
     {
       "number": 3,
@@ -216,5 +224,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T13:56:35Z"
+  "updatedAt": "2026-11-26T13:57:34Z"
 }
