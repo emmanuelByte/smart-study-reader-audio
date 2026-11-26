@@ -8,11 +8,36 @@
       "title": "Foundations of Network Architectures and Design Principles",
       "sourceSha256": "ac107fa1a53c4f88748527b379a9e70008a0f09f956e39d41de5749b7c22f2c2",
       "totalSections": 8,
-      "readySections": 0,
+      "readySections": 3,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8105-s01-s001.mp3",
+          "title": "1. Networks from first principles",
+          "seconds": 306.942,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "ab5f2c7c899f73e71ed655127d5523d9cd1eb4fc3301a9f167c88e54418b1461"
+        },
+        {
+          "file": "mit-8105-s01-s002.mp3",
+          "title": "2. OSI and TCP/IP",
+          "seconds": 316.286,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "52951f37650b01ae3086f19bc34ee3f8165659de558c74a3bec96274a0b1df7f"
+        },
+        {
+          "file": "mit-8105-s01-s003.mp3",
+          "title": "3. Network topology and selection",
+          "seconds": 279.641333,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "ea5995b4b388484d69efadb34085d8bdc7275799e32726cf34218603ecaa25aa"
+        }
+      ],
+      "durationSeconds": 902.869
     },
     {
       "number": 2,
@@ -232,5 +257,5 @@
       "durationSeconds": 862.708
     }
   ],
-  "updatedAt": "2026-11-26T09:07:23Z"
+  "updatedAt": "2026-11-26T09:10:16Z"
 }
