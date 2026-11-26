@@ -8,7 +8,7 @@
       "title": "Data Privacy and Legal Frameworks (GDPR, HIPAA, NDPR and NDPA)",
       "sourceSha256": "c0ab6e0826d31a0a14f84bb789231bfdbb7f5d31e635bc73f3a6b44bf70d9f16",
       "totalSections": 10,
-      "readySections": 6,
+      "readySections": 9,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -59,9 +59,33 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "817c454c018c27f513c16f52dd3665d1867e7f01afd13cdbc1a47a39b0abcc20"
+        },
+        {
+          "file": "mit-8111-s01-s007.mp3",
+          "title": "7. Future trends and sustained compliance",
+          "seconds": 322.232,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "c5428cc9cb79ff1b429131f745d59a0cd0300ad4fea64933f17bbf9529feeb8f"
+        },
+        {
+          "file": "mit-8111-s01-s008.mp3",
+          "title": "8. Worked archived CA questions",
+          "seconds": 295.187333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "1e7a80f4ae1aa5b6e8377bfe9e4ae832d21bdd03dc0fa32c76f764de0f11a324"
+        },
+        {
+          "file": "mit-8111-s01-s009.mp3",
+          "title": "9. Independent case-analysis practice",
+          "seconds": 366.444,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "a211caedfb0fd1c280990e7faba01dff522000a13a2bf1013d006e33e51881a4"
         }
       ],
-      "durationSeconds": 1847.193
+      "durationSeconds": 2831.057
     },
     {
       "number": 2,
@@ -119,5 +143,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T16:22:57Z"
+  "updatedAt": "2026-11-26T16:28:58Z"
 }
