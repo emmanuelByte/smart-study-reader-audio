@@ -300,11 +300,20 @@
       "title": "Social Media, Privacy and Ethical Dilemmas",
       "sourceSha256": "b933c7bfd109998343454b3ad4c065d6f5f7337a207d854aa14c0f702d21d2a9",
       "totalSections": 10,
-      "readySections": 0,
+      "readySections": 1,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8111-s04-s001.mp3",
+          "title": "1. Privacy in social-media ecosystems",
+          "seconds": 305.634667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "853790143637d94371701967959aba07b115e6fabcf19569df5dc17307cea8bf"
+        }
+      ],
+      "durationSeconds": 305.635
     },
     {
       "number": 5,
@@ -329,5 +338,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T17:01:54Z"
+  "updatedAt": "2026-11-26T17:03:15Z"
 }
