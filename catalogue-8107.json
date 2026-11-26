@@ -184,11 +184,28 @@
       "title": "Testing and Quality Assurance",
       "sourceSha256": "16aae1d478470a6f3d51ee19ad220b64ec0feff348a90a85e8bade6b874b1fa8",
       "totalSections": 10,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8107-s03-s001.mp3",
+          "title": "1. Testing and QA",
+          "seconds": 313.192667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "7765e012e2ec67cc6101cbbfead5b9c95fdc04fecf79f42bb67fb098fc4fd53c"
+        },
+        {
+          "file": "mit-8107-s03-s002.mp3",
+          "title": "2. Test-design techniques",
+          "seconds": 259.85,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "35b3aebcf926f1080c6f45fa38c71826df2da0e0fa95b91a67d1436f8d91709b"
+        }
+      ],
+      "durationSeconds": 573.043
     },
     {
       "number": 4,
@@ -224,5 +241,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-26T13:57:34Z"
+  "updatedAt": "2026-11-26T14:01:22Z"
 }
