@@ -384,8 +384,8 @@
       "title": "Organisational Culture and KPIs for Transformation",
       "sourceSha256": "0000527c14d2f4f68643e70b033b4b70fb7003149e3bd1e3f74758efc7ac3b3e",
       "totalSections": 11,
-      "readySections": 10,
-      "complete": false,
+      "readySections": 11,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -467,9 +467,17 @@
           "startSection": 10,
           "endSection": 10,
           "sha256": "e0ea18ff719875a213d111ce20b07e372ae3e633ce59a8026ee27cee1efca612"
+        },
+        {
+          "file": "mit-8113-s05-s011.mp3",
+          "title": "10. Final consolidation",
+          "seconds": 411.302,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "23e0ca14ce835486fadb605502d9f6175507f3b5a8d31f2e9d6d2e7e0e034c08"
         }
       ],
-      "durationSeconds": 3719.099
+      "durationSeconds": 4130.401
     },
     {
       "number": 6,
@@ -483,5 +491,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T14:20:21Z"
+  "updatedAt": "2026-11-27T14:22:46Z"
 }
