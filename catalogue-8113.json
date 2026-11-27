@@ -100,11 +100,28 @@
       "title": "Digital Strategy and Innovation Management",
       "sourceSha256": "ba55de7ccc92bf7a3e0f8a00a4f4821bf36bfe9ab8ec969ab34ca570f6948938",
       "totalSections": 9,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8113-s02-s001.mp3",
+          "title": "1. Digital strategy foundations",
+          "seconds": 404.475333,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "a296ba021af918acd630b50e0b9762431adcc4a635d57db4d8e65456c4c74bde"
+        },
+        {
+          "file": "mit-8113-s02-s002.mp3",
+          "title": "2. Build a strategic digital roadmap",
+          "seconds": 426.549333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "ea49677de2aec372e602f5ccdf18c93fa197af1ee9740357a0bc9c71ade93e71"
+        }
+      ],
+      "durationSeconds": 831.025
     },
     {
       "number": 3,
@@ -151,5 +168,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:28:14Z"
+  "updatedAt": "2026-11-27T12:30:51Z"
 }
