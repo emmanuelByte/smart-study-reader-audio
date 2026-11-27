@@ -484,12 +484,29 @@
       "title": "Industry 4.0, IoT and Digital Leadership",
       "sourceSha256": "2bc241be6cc074bbaab07d4532d1cdc13273a399a5491eb0ac72c0b55dbf7816",
       "totalSections": 11,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8113-s06-s001.mp3",
+          "title": "1. The industrial revolutions",
+          "seconds": 421.67,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "bfc3ce9e4e3ab562f633a4d58f7a3c453af2b1070ef42b82cccbad83e0c37386"
+        },
+        {
+          "file": "mit-8113-s06-s002.mp3",
+          "title": "2. Core enabling technologies",
+          "seconds": 421.813333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "8b2a7f18e466d43bd895b00b1f8329e1e6e9c244de10d24ce9215bd9f0c7c03a"
+        }
+      ],
+      "durationSeconds": 843.483
     }
   ],
-  "updatedAt": "2026-11-27T14:22:46Z"
+  "updatedAt": "2026-11-27T14:25:37Z"
 }
