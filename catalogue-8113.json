@@ -8,7 +8,7 @@
       "title": "Strategic Role of IT in Digital Transformation",
       "sourceSha256": "d83dcfd9a48207bfc2d2da51debf60cde0046cabb3e39eca16b35fa41f9b73fe",
       "totalSections": 10,
-      "readySections": 6,
+      "readySections": 9,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -59,9 +59,33 @@
           "startSection": 6,
           "endSection": 6,
           "sha256": "47b39510f99e6a0d2dc2125c896555ef174299b3be8ef3c479acfdfe3029a1bf"
+        },
+        {
+          "file": "mit-8113-s01-s007.mp3",
+          "title": "7. MIND CA application: MTN Nigeria DevOps transformation",
+          "seconds": 420.341333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "0f518d78437a8962e1391c98cb28e2ec57461171736fa0151bab777b5a7e8e45"
+        },
+        {
+          "file": "mit-8113-s01-s008.mp3",
+          "title": "Additional examples: digital business models and strategic IT",
+          "seconds": 399.376667,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "483f0a984f56945e2e828d648d560d5e0b97ca10c777ad4893627562a00ceace"
+        },
+        {
+          "file": "mit-8113-s01-s009.mp3",
+          "title": "8. Independent revision questions (tutor-authored)",
+          "seconds": 340.258667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "8bbd35fa5cf412b5020597cfa6de8553af51a42d9489c19e187f28d80ab17610"
         }
       ],
-      "durationSeconds": 2389.856
+      "durationSeconds": 3549.833
     },
     {
       "number": 2,
@@ -119,5 +143,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:23:32Z"
+  "updatedAt": "2026-11-27T12:26:58Z"
 }
