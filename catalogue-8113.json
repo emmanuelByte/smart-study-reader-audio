@@ -184,7 +184,7 @@
       "title": "Change Management and Customer Experience Design",
       "sourceSha256": "a1ab446ffea9192d41a04e3de9f5d78b81915f85798cd97e2bd70e20924605cd",
       "totalSections": 12,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -227,9 +227,33 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "0e8d64392a37eb1e8407b8bdfcacc3f9ecbaad124a5a875a22e4c2a4796d0cc9"
+        },
+        {
+          "file": "mit-8113-s03-s006.mp3",
+          "title": "6. Measuring experience and adoption",
+          "seconds": 313.762667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "347c706b16bb2914d8b960036673ff0060f4ca358b599b8272551e2cd5d63117"
+        },
+        {
+          "file": "mit-8113-s03-s007.mp3",
+          "title": "7. Integrate change, CX and leadership in a roadmap",
+          "seconds": 364.481333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "d6f6fb14764895fb3f74db971c2039c8f6d5dd0dd5851ea13c021c49bbbc40e8"
+        },
+        {
+          "file": "mit-8113-s03-s008.mp3",
+          "title": "8. AgriTech Solutions case",
+          "seconds": 375.062667,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "6bb9723f97b7be15f6a0050768af3d91072936b258a158c8a29872d54a98473a"
         }
       ],
-      "durationSeconds": 1910.678
+      "durationSeconds": 2963.985
     },
     {
       "number": 4,
@@ -265,5 +289,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:46:02Z"
+  "updatedAt": "2026-11-27T12:50:42Z"
 }
