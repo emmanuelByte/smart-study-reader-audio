@@ -292,7 +292,7 @@
       "title": "AI, Automation and Data-Driven Decision Making",
       "sourceSha256": "41b8b21abd43e072bf26f49b9a4599ba62e45273275fe77ec3461db552d78481",
       "totalSections": 10,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -335,9 +335,33 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "6b55e5d36e8496cc362f5b202baf1701ec5de0953fff3bbdf777eb0bacc8b387"
+        },
+        {
+          "file": "mit-8113-s04-s006.mp3",
+          "title": "6. Ethics, legal and workforce implications",
+          "seconds": 531.08,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "72883ce01dff1f986695ed76d83405ac572c474c7984461a2266cddf69fc19cf"
+        },
+        {
+          "file": "mit-8113-s04-s007.mp3",
+          "title": "7. MIND CA application: automated DevOps",
+          "seconds": 362.305958,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "e0f26bbca67fbeeac90c03a8e706e9b0723c670795631c60bbe4dded2800bc7c"
+        },
+        {
+          "file": "mit-8113-s04-s008.mp3",
+          "title": "Additional data-driven decision examples",
+          "seconds": 365.148667,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "811df195a786f4317026d8ac977f0b41c02388c48f9cbddd5abae6d7d7812d74"
         }
       ],
-      "durationSeconds": 2106.903
+      "durationSeconds": 3365.437
     },
     {
       "number": 5,
@@ -362,5 +386,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T13:48:01Z"
+  "updatedAt": "2026-11-27T13:55:15Z"
 }
