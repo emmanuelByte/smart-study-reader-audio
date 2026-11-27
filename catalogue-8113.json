@@ -184,8 +184,8 @@
       "title": "Change Management and Customer Experience Design",
       "sourceSha256": "a1ab446ffea9192d41a04e3de9f5d78b81915f85798cd97e2bd70e20924605cd",
       "totalSections": 12,
-      "readySections": 11,
-      "complete": false,
+      "readySections": 12,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -275,9 +275,17 @@
           "startSection": 11,
           "endSection": 11,
           "sha256": "7c2f5c1349159684018873cde2920ec15fde2d2776ef2d1e976d7a60fc3ac818"
+        },
+        {
+          "file": "mit-8113-s03-s012.mp3",
+          "title": "11. Final consolidation",
+          "seconds": 365.356,
+          "startSection": 12,
+          "endSection": 12,
+          "sha256": "004f9ed451840d16c716bedb9950a05799c400bb9528455a4b6860488418bf3e"
         }
       ],
-      "durationSeconds": 4067.461
+      "durationSeconds": 4432.817
     },
     {
       "number": 4,
@@ -313,5 +321,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T13:40:45Z"
+  "updatedAt": "2026-11-27T13:42:02Z"
 }
