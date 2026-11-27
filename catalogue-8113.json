@@ -184,7 +184,7 @@
       "title": "Change Management and Customer Experience Design",
       "sourceSha256": "a1ab446ffea9192d41a04e3de9f5d78b81915f85798cd97e2bd70e20924605cd",
       "totalSections": 12,
-      "readySections": 8,
+      "readySections": 11,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -251,9 +251,33 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "6bb9723f97b7be15f6a0050768af3d91072936b258a158c8a29872d54a98473a"
+        },
+        {
+          "file": "mit-8113-s03-s009.mp3",
+          "title": "9. MIND CA application: people and customer impact",
+          "seconds": 326.092667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "8d71bc0f61d380d3dc0984e527f4ed8888366b29b23926072a507c66ee2ec5c2"
+        },
+        {
+          "file": "mit-8113-s03-s010.mp3",
+          "title": "Additional change and personalisation methods",
+          "seconds": 455.919333,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "fe3211bd41bb99a2415cccc028e1d71ccfd28c5b4bf569c8711d7fb00b34fbf4"
+        },
+        {
+          "file": "mit-8113-s03-s011.mp3",
+          "title": "10. Independent revision questions (tutor-authored)",
+          "seconds": 321.464,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "7c2f5c1349159684018873cde2920ec15fde2d2776ef2d1e976d7a60fc3ac818"
         }
       ],
-      "durationSeconds": 2963.985
+      "durationSeconds": 4067.461
     },
     {
       "number": 4,
@@ -289,5 +313,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:50:42Z"
+  "updatedAt": "2026-11-27T13:40:45Z"
 }
