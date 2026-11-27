@@ -1,0 +1,99 @@
+{
+  "course": "MIT 8113",
+  "title": "Digital Transformation and Innovation",
+  "sourceRevision": "d2294c2ea22a8ca66b4ef3f0217dd6a61b16ed32",
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Strategic Role of IT in Digital Transformation",
+      "sourceSha256": "d83dcfd9a48207bfc2d2da51debf60cde0046cabb3e39eca16b35fa41f9b73fe",
+      "totalSections": 10,
+      "readySections": 3,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [
+        {
+          "file": "mit-8113-s01-s001.mp3",
+          "title": "1. What transformation actually means",
+          "seconds": 331.042667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "9df809b6242d6d07ee9e8ea427fba181706336561eb7fe41554f00d536f3c630"
+        },
+        {
+          "file": "mit-8113-s01-s002.mp3",
+          "title": "2. Seven layers of digital transformation",
+          "seconds": 471.194,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "62bc5b5a08daf30a1d95f6f52c5489ea303240a1b4aeecbfafcd86244d3dd01d"
+        },
+        {
+          "file": "mit-8113-s01-s003.mp3",
+          "title": "3. IT infrastructure and agility",
+          "seconds": 463.108667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "15c2ebaa523deea88eb4c3d3fd03fadad8f62e82b6c4790c6ea32daaa7f517bd"
+        }
+      ],
+      "durationSeconds": 1265.345
+    },
+    {
+      "number": 2,
+      "title": "Digital Strategy and Innovation Management",
+      "sourceSha256": "ba55de7ccc92bf7a3e0f8a00a4f4821bf36bfe9ab8ec969ab34ca570f6948938",
+      "totalSections": 9,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 3,
+      "title": "Change Management and Customer Experience Design",
+      "sourceSha256": "a1ab446ffea9192d41a04e3de9f5d78b81915f85798cd97e2bd70e20924605cd",
+      "totalSections": 12,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 4,
+      "title": "AI, Automation and Data-Driven Decision Making",
+      "sourceSha256": "41b8b21abd43e072bf26f49b9a4599ba62e45273275fe77ec3461db552d78481",
+      "totalSections": 10,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 5,
+      "title": "Organisational Culture and KPIs for Transformation",
+      "sourceSha256": "0000527c14d2f4f68643e70b033b4b70fb7003149e3bd1e3f74758efc7ac3b3e",
+      "totalSections": 11,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    },
+    {
+      "number": 6,
+      "title": "Industry 4.0, IoT and Digital Leadership",
+      "sourceSha256": "2bc241be6cc074bbaab07d4532d1cdc13273a399a5491eb0ac72c0b55dbf7816",
+      "totalSections": 11,
+      "readySections": 0,
+      "complete": false,
+      "reviewStatus": "factual-and-listening-review-pending",
+      "tracks": [],
+      "durationSeconds": 0
+    }
+  ],
+  "updatedAt": "2026-11-27T12:20:23Z"
+}
