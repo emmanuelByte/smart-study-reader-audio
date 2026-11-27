@@ -184,7 +184,7 @@
       "title": "Change Management and Customer Experience Design",
       "sourceSha256": "a1ab446ffea9192d41a04e3de9f5d78b81915f85798cd97e2bd70e20924605cd",
       "totalSections": 12,
-      "readySections": 2,
+      "readySections": 5,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -203,9 +203,33 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "3760d0412c2611e2935b477b54c7d531f0cc0e87a18729afe02eef99ffc14057"
+        },
+        {
+          "file": "mit-8113-s03-s003.mp3",
+          "title": "3. Managing resistance",
+          "seconds": 404.731333,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "907bfa942faa0b64815a2c7bc70736c9c61fede4b5b6bc3c2324aa2fcf8441d0"
+        },
+        {
+          "file": "mit-8113-s03-s004.mp3",
+          "title": "4. Customer experience (CX) design",
+          "seconds": 388.987333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "e5a8113b4953838a3c6b67a644527a3d6e201547eff26a7b8ca7ac0c9a5ffd82"
+        },
+        {
+          "file": "mit-8113-s03-s005.mp3",
+          "title": "5. Tools for engagement and personalisation",
+          "seconds": 406.459333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "0e8d64392a37eb1e8407b8bdfcacc3f9ecbaad124a5a875a22e4c2a4796d0cc9"
         }
       ],
-      "durationSeconds": 710.5
+      "durationSeconds": 1910.678
     },
     {
       "number": 4,
@@ -241,5 +265,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:41:55Z"
+  "updatedAt": "2026-11-27T12:46:02Z"
 }
