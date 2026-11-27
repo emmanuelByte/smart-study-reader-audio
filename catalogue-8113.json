@@ -384,11 +384,20 @@
       "title": "Organisational Culture and KPIs for Transformation",
       "sourceSha256": "0000527c14d2f4f68643e70b033b4b70fb7003149e3bd1e3f74758efc7ac3b3e",
       "totalSections": 11,
-      "readySections": 0,
+      "readySections": 1,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8113-s05-s001.mp3",
+          "title": "Hofstede's cultural dimensions",
+          "seconds": 369.180667,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "7d6944148d86f70da9b2986b6302983fcd6e9eae642bf3ed5943906d297dc31c"
+        }
+      ],
+      "durationSeconds": 369.181
     },
     {
       "number": 6,
@@ -402,5 +411,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T13:57:17Z"
+  "updatedAt": "2026-11-27T13:59:19Z"
 }
