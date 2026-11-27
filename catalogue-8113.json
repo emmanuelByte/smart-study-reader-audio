@@ -100,7 +100,7 @@
       "title": "Digital Strategy and Innovation Management",
       "sourceSha256": "ba55de7ccc92bf7a3e0f8a00a4f4821bf36bfe9ab8ec969ab34ca570f6948938",
       "totalSections": 9,
-      "readySections": 2,
+      "readySections": 5,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -119,9 +119,33 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "ea49677de2aec372e602f5ccdf18c93fa197af1ee9740357a0bc9c71ade93e71"
+        },
+        {
+          "file": "mit-8113-s02-s003.mp3",
+          "title": "3. Industry disruption",
+          "seconds": 362.247333,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "1febdd19520fab42e7049901ca5210930f038d923ad84ff76eee67779e53454e"
+        },
+        {
+          "file": "mit-8113-s02-s004.mp3",
+          "title": "4. Innovation management frameworks",
+          "seconds": 319.87,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "7c6e42a572a9a424ef876d32b5f0cdc460e8dec189e60901360b42b2dd337a96"
+        },
+        {
+          "file": "mit-8113-s02-s005.mp3",
+          "title": "5. Business model innovation and platform strategy",
+          "seconds": 480.724,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "85c1f8eb500a9f6596096ea47190949952d58ffccdf517e4e57c7fa871462943"
         }
       ],
-      "durationSeconds": 831.025
+      "durationSeconds": 1993.866
     },
     {
       "number": 3,
@@ -168,5 +192,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:30:51Z"
+  "updatedAt": "2026-11-27T12:34:17Z"
 }
