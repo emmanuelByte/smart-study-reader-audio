@@ -292,8 +292,8 @@
       "title": "AI, Automation and Data-Driven Decision Making",
       "sourceSha256": "41b8b21abd43e072bf26f49b9a4599ba62e45273275fe77ec3461db552d78481",
       "totalSections": 10,
-      "readySections": 8,
-      "complete": false,
+      "readySections": 10,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -359,9 +359,25 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "811df195a786f4317026d8ac977f0b41c02388c48f9cbddd5abae6d7d7812d74"
+        },
+        {
+          "file": "mit-8113-s04-s009.mp3",
+          "title": "8. Independent revision questions (tutor-authored)",
+          "seconds": 280.068,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "454d378954971947c6b14f0a82ae55cc1bebf016c897e315bd69a035b9d71fdd"
+        },
+        {
+          "file": "mit-8113-s04-s010.mp3",
+          "title": "9. Final consolidation",
+          "seconds": 299.838,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "4ab7fe219777e2608b8e59c1f71c6f5b78319062e2d299af3d7d980484bd236f"
         }
       ],
-      "durationSeconds": 3365.437
+      "durationSeconds": 3945.343
     },
     {
       "number": 5,
@@ -386,5 +402,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T13:55:15Z"
+  "updatedAt": "2026-11-27T13:57:17Z"
 }
