@@ -384,7 +384,7 @@
       "title": "Organisational Culture and KPIs for Transformation",
       "sourceSha256": "0000527c14d2f4f68643e70b033b4b70fb7003149e3bd1e3f74758efc7ac3b3e",
       "totalSections": 11,
-      "readySections": 4,
+      "readySections": 7,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -419,9 +419,33 @@
           "startSection": 4,
           "endSection": 4,
           "sha256": "064d9e40fb75c44cb3da152da14248a67e7d88611ab47392e8ecc559a54271b8"
+        },
+        {
+          "file": "mit-8113-s05-s005.mp3",
+          "title": "5. Agility metrics and assessment",
+          "seconds": 384.406667,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "f67ef377b29b8a5a9a532b2ccb18e5ccd2db7db215cccbfb69de900d8723b9ab"
+        },
+        {
+          "file": "mit-8113-s05-s006.mp3",
+          "title": "6. Sustaining transformation momentum",
+          "seconds": 385.388,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "61094efad447f54c1e2cdf0ad4232ec1a40326f8dd5dcaa2b73fb9cdcdac60fa"
+        },
+        {
+          "file": "mit-8113-s05-s007.mp3",
+          "title": "7. FinTech Nexus case",
+          "seconds": 363.143333,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "4af90cad10916d8ecaad8e9ef3aab5870ebbe1f5b9e1b62f8e81cdba54456481"
         }
       ],
-      "durationSeconds": 1631.789
+      "durationSeconds": 2764.727
     },
     {
       "number": 6,
@@ -435,5 +459,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T14:07:02Z"
+  "updatedAt": "2026-11-27T14:14:13Z"
 }
