@@ -100,8 +100,8 @@
       "title": "Digital Strategy and Innovation Management",
       "sourceSha256": "ba55de7ccc92bf7a3e0f8a00a4f4821bf36bfe9ab8ec969ab34ca570f6948938",
       "totalSections": 9,
-      "readySections": 8,
-      "complete": false,
+      "readySections": 9,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -167,9 +167,17 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "f613fc56c5daa86e388c9cb75b6a6f0419b81fba3389fb267b8f5be16f14cad6"
+        },
+        {
+          "file": "mit-8113-s02-s009.mp3",
+          "title": "8. Final consolidation",
+          "seconds": 319.544,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "a77ee67a17122411a562af072dabb8660a61d6e2864b555938d57ff2c8535c97"
         }
       ],
-      "durationSeconds": 3117.14
+      "durationSeconds": 3436.684
     },
     {
       "number": 3,
@@ -216,5 +224,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:37:37Z"
+  "updatedAt": "2026-11-27T12:39:00Z"
 }
