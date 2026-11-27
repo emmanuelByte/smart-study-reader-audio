@@ -292,11 +292,28 @@
       "title": "AI, Automation and Data-Driven Decision Making",
       "sourceSha256": "41b8b21abd43e072bf26f49b9a4599ba62e45273275fe77ec3461db552d78481",
       "totalSections": 10,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8113-s04-s001.mp3",
+          "title": "1. Artificial intelligence and automation",
+          "seconds": 352.391333,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "59e3de1daa49f06c88b5ebd1c9fc25357f420e7a91cd5659573852f482154f04"
+        },
+        {
+          "file": "mit-8113-s04-s002.mp3",
+          "title": "Model lifecycle and evaluation",
+          "seconds": 433.717333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "cf3ffb6ce9e475a4dd8e38e2db49f127436ff4303c9c7ff04ba9e02f7e2c4d59"
+        }
+      ],
+      "durationSeconds": 786.109
     },
     {
       "number": 5,
@@ -321,5 +338,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T13:42:02Z"
+  "updatedAt": "2026-11-27T13:44:13Z"
 }
