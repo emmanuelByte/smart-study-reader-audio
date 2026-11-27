@@ -384,7 +384,7 @@
       "title": "Organisational Culture and KPIs for Transformation",
       "sourceSha256": "0000527c14d2f4f68643e70b033b4b70fb7003149e3bd1e3f74758efc7ac3b3e",
       "totalSections": 11,
-      "readySections": 7,
+      "readySections": 10,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -443,9 +443,33 @@
           "startSection": 7,
           "endSection": 7,
           "sha256": "4af90cad10916d8ecaad8e9ef3aab5870ebbe1f5b9e1b62f8e81cdba54456481"
+        },
+        {
+          "file": "mit-8113-s05-s008.mp3",
+          "title": "8. MIND CA application: MTN DevOps culture and metrics",
+          "seconds": 335.708667,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "0cf770bb0ae09f896c7c16fb400626011c05aa79e18586438f9552f120041b78"
+        },
+        {
+          "file": "mit-8113-s05-s009.mp3",
+          "title": "Additional culture practices and transformation measures",
+          "seconds": 340.216,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "36cd82bf31ef7172bacee861a15115e4776ac91302fb42aec17ec4e46556e5a4"
+        },
+        {
+          "file": "mit-8113-s05-s010.mp3",
+          "title": "9. Independent revision questions (tutor-authored)",
+          "seconds": 278.446667,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "e0ea18ff719875a213d111ce20b07e372ae3e633ce59a8026ee27cee1efca612"
         }
       ],
-      "durationSeconds": 2764.727
+      "durationSeconds": 3719.099
     },
     {
       "number": 6,
@@ -459,5 +483,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T14:14:13Z"
+  "updatedAt": "2026-11-27T14:20:21Z"
 }
