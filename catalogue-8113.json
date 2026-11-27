@@ -484,8 +484,8 @@
       "title": "Industry 4.0, IoT and Digital Leadership",
       "sourceSha256": "2bc241be6cc074bbaab07d4532d1cdc13273a399a5491eb0ac72c0b55dbf7816",
       "totalSections": 11,
-      "readySections": 8,
-      "complete": false,
+      "readySections": 11,
+      "complete": true,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
         {
@@ -551,10 +551,34 @@
           "startSection": 8,
           "endSection": 8,
           "sha256": "30c591fbce3106dec1d474978573e10eb88c20fe8ddf6e40846e78d618f1c0a0"
+        },
+        {
+          "file": "mit-8113-s06-s009.mp3",
+          "title": "Additional Industry 4.0 applications and technical assistance",
+          "seconds": 397.264667,
+          "startSection": 9,
+          "endSection": 9,
+          "sha256": "6d59299528a59b8f1cb5c7d08a73873b9aec10a6743193c9b7df5fe12ca7706c"
+        },
+        {
+          "file": "mit-8113-s06-s010.mp3",
+          "title": "9. Independent revision questions (tutor-authored)",
+          "seconds": 318.968,
+          "startSection": 10,
+          "endSection": 10,
+          "sha256": "9e7325be201df477aa022f342c7e3a7235b69a4860acf49db6772b73b08946e2"
+        },
+        {
+          "file": "mit-8113-s06-s011.mp3",
+          "title": "10. Final consolidation",
+          "seconds": 353.33,
+          "startSection": 11,
+          "endSection": 11,
+          "sha256": "312ed147fe3c7ee053037be9970a24bdc4ac414d292e66912a872b690ecf96e5"
         }
       ],
-      "durationSeconds": 3179.5
+      "durationSeconds": 4249.063
     }
   ],
-  "updatedAt": "2026-11-27T14:39:05Z"
+  "updatedAt": "2026-11-27T14:46:13Z"
 }
