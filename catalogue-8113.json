@@ -484,7 +484,7 @@
       "title": "Industry 4.0, IoT and Digital Leadership",
       "sourceSha256": "2bc241be6cc074bbaab07d4532d1cdc13273a399a5491eb0ac72c0b55dbf7816",
       "totalSections": 11,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -527,10 +527,34 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "112fad293980c9006d6aaacb226a6993d494d1264497f84fb2dd7a4ce56f2c88"
+        },
+        {
+          "file": "mit-8113-s06-s006.mp3",
+          "title": "6. Digital leadership and cultural transformation",
+          "seconds": 432.309333,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "ad1ae559397d756b74b19a9bae21559be7ed8fb4dd0be3e953a627e0099514e8"
+        },
+        {
+          "file": "mit-8113-s06-s007.mp3",
+          "title": "7. Future trends and measuring success",
+          "seconds": 307.112667,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "62c48db47d30212a5fd252b47b8625dc4b2d86087b33bc8938cad8fca5d52229"
+        },
+        {
+          "file": "mit-8113-s06-s008.mp3",
+          "title": "8. MIND CA application: leadership and resilient modernisation",
+          "seconds": 296.979333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "30c591fbce3106dec1d474978573e10eb88c20fe8ddf6e40846e78d618f1c0a0"
         }
       ],
-      "durationSeconds": 2143.099
+      "durationSeconds": 3179.5
     }
   ],
-  "updatedAt": "2026-11-27T14:33:45Z"
+  "updatedAt": "2026-11-27T14:39:05Z"
 }
