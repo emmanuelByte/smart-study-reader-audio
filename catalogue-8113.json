@@ -384,7 +384,7 @@
       "title": "Organisational Culture and KPIs for Transformation",
       "sourceSha256": "0000527c14d2f4f68643e70b033b4b70fb7003149e3bd1e3f74758efc7ac3b3e",
       "totalSections": 11,
-      "readySections": 1,
+      "readySections": 4,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -395,9 +395,33 @@
           "startSection": 1,
           "endSection": 1,
           "sha256": "7d6944148d86f70da9b2986b6302983fcd6e9eae642bf3ed5943906d297dc31c"
+        },
+        {
+          "file": "mit-8113-s05-s002.mp3",
+          "title": "2. Digital-first culture and leadership",
+          "seconds": 415.355333,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "1015778788ae689bf0b579a73c6a372b829f901dd42c370985db4138ab405b0d"
+        },
+        {
+          "file": "mit-8113-s05-s003.mp3",
+          "title": "3. KPIs: measure transformation success",
+          "seconds": 501.006,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "a6d778aea4bcfee1fd5b3b050d5dc8eec6752ff93c784b80eb5798b20fe6df69"
+        },
+        {
+          "file": "mit-8113-s05-s004.mp3",
+          "title": "4. Innovation metrics",
+          "seconds": 346.247333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "064d9e40fb75c44cb3da152da14248a67e7d88611ab47392e8ecc559a54271b8"
         }
       ],
-      "durationSeconds": 369.181
+      "durationSeconds": 1631.789
     },
     {
       "number": 6,
@@ -411,5 +435,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T13:59:19Z"
+  "updatedAt": "2026-11-27T14:07:02Z"
 }
