@@ -100,7 +100,7 @@
       "title": "Digital Strategy and Innovation Management",
       "sourceSha256": "ba55de7ccc92bf7a3e0f8a00a4f4821bf36bfe9ab8ec969ab34ca570f6948938",
       "totalSections": 9,
-      "readySections": 5,
+      "readySections": 8,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -143,9 +143,33 @@
           "startSection": 5,
           "endSection": 5,
           "sha256": "85c1f8eb500a9f6596096ea47190949952d58ffccdf517e4e57c7fa871462943"
+        },
+        {
+          "file": "mit-8113-s02-s006.mp3",
+          "title": "6. MIND CA application: strategy and phased innovation",
+          "seconds": 386.070667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "d6e904c3cb6f41bc3909f0170b220bf2fcf57b8e2c3e873631bff0051190d79c"
+        },
+        {
+          "file": "mit-8113-s02-s007.mp3",
+          "title": "Additional innovation methodologies and commercialisation",
+          "seconds": 408.55,
+          "startSection": 7,
+          "endSection": 7,
+          "sha256": "e86773ad946fcbadcf6a34f879aeee84d78431508ad828215d8ff60fe104806a"
+        },
+        {
+          "file": "mit-8113-s02-s008.mp3",
+          "title": "7. Independent revision questions (tutor-authored)",
+          "seconds": 328.653333,
+          "startSection": 8,
+          "endSection": 8,
+          "sha256": "f613fc56c5daa86e388c9cb75b6a6f0419b81fba3389fb267b8f5be16f14cad6"
         }
       ],
-      "durationSeconds": 1993.866
+      "durationSeconds": 3117.14
     },
     {
       "number": 3,
@@ -192,5 +216,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:34:17Z"
+  "updatedAt": "2026-11-27T12:37:37Z"
 }
