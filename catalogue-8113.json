@@ -8,7 +8,7 @@
       "title": "Strategic Role of IT in Digital Transformation",
       "sourceSha256": "d83dcfd9a48207bfc2d2da51debf60cde0046cabb3e39eca16b35fa41f9b73fe",
       "totalSections": 10,
-      "readySections": 3,
+      "readySections": 6,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -35,9 +35,33 @@
           "startSection": 3,
           "endSection": 3,
           "sha256": "15c2ebaa523deea88eb4c3d3fd03fadad8f62e82b6c4790c6ea32daaa7f517bd"
+        },
+        {
+          "file": "mit-8113-s01-s004.mp3",
+          "title": "4. Strategic alignment and competitive advantage",
+          "seconds": 388.310667,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "32abe837ff9eb0d36340210d89743722b0293b12fa2333fd2b5a03f44b46d4cb"
+        },
+        {
+          "file": "mit-8113-s01-s005.mp3",
+          "title": "5. Emerging technologies and their contribution",
+          "seconds": 436.149333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "3afe1896c214e28ea86a038c892b5893e8a86a7beaf24beafcab77da46849a50"
+        },
+        {
+          "file": "mit-8113-s01-s006.mp3",
+          "title": "6. Success, failure and the Nigerian context",
+          "seconds": 300.050667,
+          "startSection": 6,
+          "endSection": 6,
+          "sha256": "47b39510f99e6a0d2dc2125c896555ef174299b3be8ef3c479acfdfe3029a1bf"
         }
       ],
-      "durationSeconds": 1265.345
+      "durationSeconds": 2389.856
     },
     {
       "number": 2,
@@ -95,5 +119,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:20:23Z"
+  "updatedAt": "2026-11-27T12:23:32Z"
 }
