@@ -184,11 +184,28 @@
       "title": "Change Management and Customer Experience Design",
       "sourceSha256": "a1ab446ffea9192d41a04e3de9f5d78b81915f85798cd97e2bd70e20924605cd",
       "totalSections": 12,
-      "readySections": 0,
+      "readySections": 2,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
-      "tracks": [],
-      "durationSeconds": 0
+      "tracks": [
+        {
+          "file": "mit-8113-s03-s001.mp3",
+          "title": "1. Change management fundamentals",
+          "seconds": 352.007333,
+          "startSection": 1,
+          "endSection": 1,
+          "sha256": "4840b98e80643d0191378599f535e7f4fe0e90147fb6551918789c65e9b0ed7e"
+        },
+        {
+          "file": "mit-8113-s03-s002.mp3",
+          "title": "Kotter's eight steps",
+          "seconds": 358.492667,
+          "startSection": 2,
+          "endSection": 2,
+          "sha256": "3760d0412c2611e2935b477b54c7d531f0cc0e87a18729afe02eef99ffc14057"
+        }
+      ],
+      "durationSeconds": 710.5
     },
     {
       "number": 4,
@@ -224,5 +241,5 @@
       "durationSeconds": 0
     }
   ],
-  "updatedAt": "2026-11-27T12:39:00Z"
+  "updatedAt": "2026-11-27T12:41:55Z"
 }
