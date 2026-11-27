@@ -484,7 +484,7 @@
       "title": "Industry 4.0, IoT and Digital Leadership",
       "sourceSha256": "2bc241be6cc074bbaab07d4532d1cdc13273a399a5491eb0ac72c0b55dbf7816",
       "totalSections": 11,
-      "readySections": 2,
+      "readySections": 5,
       "complete": false,
       "reviewStatus": "factual-and-listening-review-pending",
       "tracks": [
@@ -503,10 +503,34 @@
           "startSection": 2,
           "endSection": 2,
           "sha256": "8b2a7f18e466d43bd895b00b1f8329e1e6e9c244de10d24ce9215bd9f0c7c03a"
+        },
+        {
+          "file": "mit-8113-s06-s003.mp3",
+          "title": "3. How the Internet of Things works",
+          "seconds": 494.014667,
+          "startSection": 3,
+          "endSection": 3,
+          "sha256": "0db06cab27ef33d50080fea697fdd8a111e30c39da3bcec1ae7ccb5993e39a20"
+        },
+        {
+          "file": "mit-8113-s06-s004.mp3",
+          "title": "4. Smart factories, analytics and operational decisions",
+          "seconds": 381.953333,
+          "startSection": 4,
+          "endSection": 4,
+          "sha256": "f771c0b155709b53d26f72911183991c2bb31cb1f50ef14b338871acf046c020"
+        },
+        {
+          "file": "mit-8113-s06-s005.mp3",
+          "title": "5. Challenges and mitigation",
+          "seconds": 423.647333,
+          "startSection": 5,
+          "endSection": 5,
+          "sha256": "112fad293980c9006d6aaacb226a6993d494d1264497f84fb2dd7a4ce56f2c88"
         }
       ],
-      "durationSeconds": 843.483
+      "durationSeconds": 2143.099
     }
   ],
-  "updatedAt": "2026-11-27T14:25:37Z"
+  "updatedAt": "2026-11-27T14:33:45Z"
 }
